@@ -59,12 +59,33 @@ cd ../savitr-delivery-manager
 npm install
 ```
 
-Create `.env` file:
+Copy the example environment file and configure it:
+```bash
+cp .env.example .env
+```
+
+Then edit `.env` with your actual values:
 ```env
-MONGODB_URI=mongodb://localhost:27017/savitr-delivery
-NEXTAUTH_SECRET=your_nextauth_secret
+# MongoDB Configuration
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/database?retryWrites=true&w=majority
+
+# NextAuth Configuration
+NEXTAUTH_SECRET=your_nextauth_secret_here
 NEXTAUTH_URL=http://localhost:3000
-ADMIN_SECRET_CODE=your_admin_secret_code
+
+# JWT Configuration
+JWT_SECRET=your_jwt_secret_here
+ADMIN_SECRET_CODE=your_admin_secret_here
+
+# Twilio Configuration (Optional for SMS features)
+TWILIO_ACCOUNT_SID=your_twilio_account_sid_here
+TWILIO_AUTH_TOKEN=your_twilio_auth_token_here
+TWILIO_PHONE_NUMBER=your_twilio_phone_number_here
+
+# Development Settings
+SEND_REAL_SMS_IN_DEV=false
+SEND_MOCK_NOTIFICATIONS=true
+NODE_ENV=development
 ```
 
 ## Running the System
