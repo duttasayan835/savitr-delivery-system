@@ -30,6 +30,15 @@ def hello():
     logger.info("Root endpoint called")
     return "Savitr AI API is running", 200
 
+@app.route("/health")
+def health():
+    logger.info("Health check endpoint called")
+    return jsonify({
+        "status": "healthy",
+        "message": "Savitr AI API is running",
+        "port": os.environ.get('PORT', '5000')
+    }), 200
+
 # Add CORS preflight response for the route endpoint
 @app.route("/api/route", methods=["OPTIONS"])
 def route_options():
