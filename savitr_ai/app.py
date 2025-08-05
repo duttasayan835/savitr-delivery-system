@@ -17,7 +17,10 @@ CORS(app,
          "methods": ["GET", "POST", "OPTIONS"],
          "allow_headers": ["Content-Type", "Authorization", "Accept", "Origin"]
      }})
-app.config.from_object("config.Config")
+
+# Set basic Flask configuration
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key-for-flask-app')
+app.config['DEBUG'] = os.environ.get('FLASK_DEBUG', 'False').lower() == 'true'
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
