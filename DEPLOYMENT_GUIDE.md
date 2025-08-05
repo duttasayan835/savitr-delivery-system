@@ -150,7 +150,7 @@ FLASK_ENV=production
 After getting your Railway URL, update the Vercel environment variables:
 
 ```
-NEXTAUTH_URL=https://your-vercel-app.vercel.app
+NEXTAUTH_URL=https://savitr-delivery-manager-mhbt49awd-sayans-projects-fdf06161.vercel.app
 NEXT_PUBLIC_API_URL=https://your-railway-app.up.railway.app
 ```
 
@@ -178,8 +178,8 @@ NEXT_PUBLIC_API_URL=https://your-railway-app.up.railway.app
 
 After deployment, you'll have:
 
-- **savitr-delivery-manager:** `https://your-app.vercel.app`
-- **indiapost-clone:** `https://your-app.netlify.app`
+- **savitr-delivery-manager:** `https://savitr-delivery-manager-mhbt49awd-sayans-projects-fdf06161.vercel.app
+- **indiapost-clone:** `https://689214d948804cb1a6ac9c28--spontaneous-profiterole-f88378.netlify.app/
 - **savitr_ai:** `https://your-app.railway.app`
 
 ---
