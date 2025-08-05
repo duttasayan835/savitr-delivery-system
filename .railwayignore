@@ -1,0 +1,5 @@
+# Ignore Node.js projects when deploying Python app
+savitr-delivery-manager/
+indiapost-clone/
+node_modules/
+package-lock.json 
