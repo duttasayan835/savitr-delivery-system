@@ -56,7 +56,7 @@ const clickableSecondRowLinks = [
     title: "India Post Payments Bank"
   },
   {
-    href: SAVITR_AI_URL,
+    href: "https://savitr-delivery-manager-mhbt49awd-sayans-projects-fdf06161.vercel.app/",
     icon: "https://files.catbox.moe/ja0z2x.jpg",
     title: "Savitr-AI"
   }
