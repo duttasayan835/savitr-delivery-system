@@ -278,6 +278,7 @@ def get_default_order():
     }
 
 if __name__ == "__main__":
-    # Explicitly bind to all network interfaces (0.0.0.0) and use port 5000
-    print("Starting Savitr AI API server on http://0.0.0.0:5000")
-    app.run(debug=True, host='0.0.0.0', port=5000, threaded=True)
+    # Get port from environment variable (Railway) or default to 5000
+    port = int(os.environ.get('PORT', 5000))
+    print(f"Starting Savitr AI API server on http://0.0.0.0:{port}")
+    app.run(debug=False, host='0.0.0.0', port=port, threaded=True)
