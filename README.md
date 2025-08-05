@@ -28,9 +28,8 @@
 
 | **Service** | **URL** | **Status** |
 |-------------|---------|------------|
+| **📱 India Post Clone** | [`https://689214d948804cb1a6ac9c28--spontaneous-profiterole-f88378.netlify.app/](`https://689214d948804cb1a6ac9c28--spontaneous-profiterole-f88378.netlify.app/) | ✅ **Live** |
 | **🚀 Main Delivery Manager** | [https://savitr-delivery-manager-mhbt49awd-sayans-projects-fdf06161.vercel.app](https://savitr-delivery-manager-mhbt49awd-sayans-projects-fdf06161.vercel.app) | ✅ **Live** |
-| **🤖 AI Backend API** | [https://your-railway-url.railway.app](https://your-railway-url.railway.app) | 🚧 **Deploying** |
-| **📱 India Post Clone** | [https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app) | 🚧 **Deploying** |
 
 </div>
 
