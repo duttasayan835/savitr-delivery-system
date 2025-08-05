@@ -1,0 +1,17 @@
+[project]
+name = "route"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.0",
+    "folium>=0.19.5",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "ortools>=9.12.4544",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "xgboost>=3.0.0",
+]

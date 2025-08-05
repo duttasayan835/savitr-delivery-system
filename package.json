@@ -1,0 +1,14 @@
+{
+  "name": "savitr-ai-delivery-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:delivery": "cd savitr-delivery-manager && npm run dev",
+    "dev:indiapost": "cd indiapost-clone && npm run dev",
+    "dev": "concurrently \"npm run dev:delivery\" \"npm run dev:indiapost\"",
+    "install:all": "npm install && cd savitr-delivery-manager && npm install && cd ../indiapost-clone && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 

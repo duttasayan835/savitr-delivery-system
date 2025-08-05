@@ -1,0 +1,14 @@
+﻿Days for shipping (real),Days for shipment (scheduled),Delivery Status,Customer Segment,Latitude,Longitude,Order City,order date (DateOrders),Order Item Id,Order Item Quantity,Order State,shipping date (DateOrders),Shipping Mode,User ID,Admin Recomended Slots/Previous Optimized Delivered Slots,Parcel Delivered in This Slot,Machine Prediction
+3,4,Advance shipping,Home Office,22.5675,88.37,Ajmer,3/18/2016 0:46,75669,3,Rajastan,3/21/2016 0:46,Standard Class,24,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,22.58,88.3294,Ajmer,3/18/2016 0:46,75667,3,Rajastan,3/21/2016 0:46,Standard Class,24,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,22.58,88.42,Panihati,11/19/2015 0:36,55189,2,Bengala Occidental,11/21/2015 0:36,First Class,40,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,22.61,88.4,Raipur,04-03-2016 19:43,73504,1,Chhattisgarh,07-03-2016 19:43,Second Class,44,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,22.87,88.41,Raipur,04-03-2016 19:43,73503,2,Chhattisgarh,07-03-2016 19:43,Second Class,44,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,22.69,88.37,Delhi,12/24/2015 0:01,61205,5,Delhi,12/27/2015 0:01,Standard Class,70,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,22.6686,88.3704,Delhi,12/24/2015 0:01,61202,1,Delhi,12/27/2015 0:01,Standard Class,70,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,22.65,88.34,Mumbai,09-03-2016 23:02,74376,4,Maharashtra,3/14/2016 23:02,Second Class,85,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,22.9,88.39,Nasik,06-03-2016 05:21,73741,1,Maharashtra,08-03-2016 05:21,First Class,103,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,22.9,88.39,Nasik,06-03-2016 05:21,73740,1,Maharashtra,08-03-2016 05:21,First Class,103,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,22.72,88.48,Mangalore,10-02-2016 14:40,69556,1,Karnataka,2/13/2016 14:40,Standard Class,141,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,22.47,88.11,Mumbai,11-02-2016 15:32,69739,3,Maharashtra,2/15/2016 15:32,Standard Class,142,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,22.89,88.42,Malegaon,2/26/2016 3:26,72191,4,Maharashtra,2/28/2016 3:26,Second Class,149,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM

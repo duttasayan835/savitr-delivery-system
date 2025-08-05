@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c71c13b9c350672724ac764f65a9af4f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.1.2/dist/leaflet-ant-path.min.js"></script>
+</head>
+<body>
+    
+    
+    <div style="position: fixed; 
+                bottom: 50px; left: 50px; width: 220px; height: 90px; 
+                border:2px solid grey; z-index:9999; font-size:14px;
+                background-color:white;
+                padding: 10px;
+                border-radius: 5px;
+                ">
+      <b>TSP Solution</b><br>
+      Total Distance: 148.99 km<br>
+      Points: 14<br>
+      <span style="color:red;">&#8226;</span> Home (22.5,88.3)<br>
+      <span style="color:blue;">&#8226;</span> Delivery Points
+    </div>
+    
+    
+            <div class="folium-map" id="map_c71c13b9c350672724ac764f65a9af4f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c71c13b9c350672724ac764f65a9af4f = L.map(
+                "map_c71c13b9c350672724ac764f65a9af4f",
+                {
+                    center: [22.66893076923077, 88.36998461538461],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2fe0f219f1231779bd43bfc1b6a0c0d2 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var marker_7c5e0867d520eaea70b126fea2e51439 = L.marker(
+                [22.5, 88.4],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_14069fee51be80ae47fc1b62aafd44fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_7c5e0867d520eaea70b126fea2e51439.setIcon(icon_14069fee51be80ae47fc1b62aafd44fd);
+        
+    
+        var popup_0b93eb9302b09a151dbd8043414de034 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_ee2e773153414234c9e274e347bc2511 = $(`<div id="html_ee2e773153414234c9e274e347bc2511" style="width: 100.0%; height: 100.0%;">         <b>Stop 0</b><br>         Consignment ID: 0<br>         User ID: 0<br>         Time Slot: N/A         </div>`)[0];
+                popup_0b93eb9302b09a151dbd8043414de034.setContent(html_ee2e773153414234c9e274e347bc2511);
+            
+        
+
+        marker_7c5e0867d520eaea70b126fea2e51439.bindPopup(popup_0b93eb9302b09a151dbd8043414de034)
+        ;
+
+        
+    
+    
+            var marker_04eaf915f73638f715c6ea9f235e695b = L.marker(
+                [22.47, 88.11],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_15020e89cd13ba49b56c45ac0d343f07 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_04eaf915f73638f715c6ea9f235e695b.setIcon(icon_15020e89cd13ba49b56c45ac0d343f07);
+        
+    
+        var popup_84004fca677d213baf8c99d4701a7b24 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_e33c0b18605aba2896ff8ea5da4ed0df = $(`<div id="html_e33c0b18605aba2896ff8ea5da4ed0df" style="width: 100.0%; height: 100.0%;">         <b>Stop 1</b><br>         Consignment ID: 69739<br>         User ID: 142<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_84004fca677d213baf8c99d4701a7b24.setContent(html_e33c0b18605aba2896ff8ea5da4ed0df);
+            
+        
+
+        marker_04eaf915f73638f715c6ea9f235e695b.bindPopup(popup_84004fca677d213baf8c99d4701a7b24)
+        ;
+
+        
+    
+    
+            marker_04eaf915f73638f715c6ea9f235e695b.bindTooltip(
+                `<div>
+                     Stop 1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4fc05734c343f83e45411887ef934025 = L.marker(
+                [22.58, 88.3294],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_e0167be42663c4a6b62fda5a8ac1e834 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4fc05734c343f83e45411887ef934025.setIcon(icon_e0167be42663c4a6b62fda5a8ac1e834);
+        
+    
+        var popup_09d44d92b88b16f41f4d22f46c719f4d = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_026095fe56214085e670b967732dfc23 = $(`<div id="html_026095fe56214085e670b967732dfc23" style="width: 100.0%; height: 100.0%;">         <b>Stop 2</b><br>         Consignment ID: 75667<br>         User ID: 24<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_09d44d92b88b16f41f4d22f46c719f4d.setContent(html_026095fe56214085e670b967732dfc23);
+            
+        
+
+        marker_4fc05734c343f83e45411887ef934025.bindPopup(popup_09d44d92b88b16f41f4d22f46c719f4d)
+        ;
+
+        
+    
+    
+            marker_4fc05734c343f83e45411887ef934025.bindTooltip(
+                `<div>
+                     Stop 2
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6d28a40a379e55858d1121e3f8eb76cd = L.marker(
+                [22.65, 88.34],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_c0559dc96d4347d2cd7cea0e970e93d3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6d28a40a379e55858d1121e3f8eb76cd.setIcon(icon_c0559dc96d4347d2cd7cea0e970e93d3);
+        
+    
+        var popup_31aaebf0297cbd069c72cec22a72d59b = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_042df5cc06acf00c8677455384cf6cbb = $(`<div id="html_042df5cc06acf00c8677455384cf6cbb" style="width: 100.0%; height: 100.0%;">         <b>Stop 3</b><br>         Consignment ID: 74376<br>         User ID: 85<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_31aaebf0297cbd069c72cec22a72d59b.setContent(html_042df5cc06acf00c8677455384cf6cbb);
+            
+        
+
+        marker_6d28a40a379e55858d1121e3f8eb76cd.bindPopup(popup_31aaebf0297cbd069c72cec22a72d59b)
+        ;
+
+        
+    
+    
+            marker_6d28a40a379e55858d1121e3f8eb76cd.bindTooltip(
+                `<div>
+                     Stop 3
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_af856a1ce7fe4e16aee37b6c2781f7d3 = L.marker(
+                [22.6686, 88.3704],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_16b5a26efde2b4a8a190003208e07edc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_af856a1ce7fe4e16aee37b6c2781f7d3.setIcon(icon_16b5a26efde2b4a8a190003208e07edc);
+        
+    
+        var popup_036d8782cfd156c45dbe5077e52db7f2 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_a888a4b3aef619d05c90dcf3d9e71da2 = $(`<div id="html_a888a4b3aef619d05c90dcf3d9e71da2" style="width: 100.0%; height: 100.0%;">         <b>Stop 4</b><br>         Consignment ID: 61202<br>         User ID: 70<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_036d8782cfd156c45dbe5077e52db7f2.setContent(html_a888a4b3aef619d05c90dcf3d9e71da2);
+            
+        
+
+        marker_af856a1ce7fe4e16aee37b6c2781f7d3.bindPopup(popup_036d8782cfd156c45dbe5077e52db7f2)
+        ;
+
+        
+    
+    
+            marker_af856a1ce7fe4e16aee37b6c2781f7d3.bindTooltip(
+                `<div>
+                     Stop 4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_29e26df1ce31effc74ec6efb95c09862 = L.marker(
+                [22.69, 88.37],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_2a1a1f8e7a450a41f52e88a560e121c0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_29e26df1ce31effc74ec6efb95c09862.setIcon(icon_2a1a1f8e7a450a41f52e88a560e121c0);
+        
+    
+        var popup_0a23f1886d9724b22d546a3871013631 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_7194781a45aa0633adec9efcc04296cc = $(`<div id="html_7194781a45aa0633adec9efcc04296cc" style="width: 100.0%; height: 100.0%;">         <b>Stop 5</b><br>         Consignment ID: 61205<br>         User ID: 70<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_0a23f1886d9724b22d546a3871013631.setContent(html_7194781a45aa0633adec9efcc04296cc);
+            
+        
+
+        marker_29e26df1ce31effc74ec6efb95c09862.bindPopup(popup_0a23f1886d9724b22d546a3871013631)
+        ;
+
+        
+    
+    
+            marker_29e26df1ce31effc74ec6efb95c09862.bindTooltip(
+                `<div>
+                     Stop 5
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_319c2e512a05ff56f0132b9853fb8303 = L.marker(
+                [22.9, 88.39],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_29c8ed5936e31c2750e906e8d6121bb8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_319c2e512a05ff56f0132b9853fb8303.setIcon(icon_29c8ed5936e31c2750e906e8d6121bb8);
+        
+    
+        var popup_e3b6f0197494deba58bb56c8052b73e8 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_798e93c8c684dc86618c947c296a1f67 = $(`<div id="html_798e93c8c684dc86618c947c296a1f67" style="width: 100.0%; height: 100.0%;">         <b>Stop 6</b><br>         Consignment ID: 73741<br>         User ID: 103<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_e3b6f0197494deba58bb56c8052b73e8.setContent(html_798e93c8c684dc86618c947c296a1f67);
+            
+        
+
+        marker_319c2e512a05ff56f0132b9853fb8303.bindPopup(popup_e3b6f0197494deba58bb56c8052b73e8)
+        ;
+
+        
+    
+    
+            marker_319c2e512a05ff56f0132b9853fb8303.bindTooltip(
+                `<div>
+                     Stop 6
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d940c766c6b883a9411cfb52e6852758 = L.marker(
+                [22.89, 88.42],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_85c5bd283dd05e85392b6faaacd603ca = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d940c766c6b883a9411cfb52e6852758.setIcon(icon_85c5bd283dd05e85392b6faaacd603ca);
+        
+    
+        var popup_724ea32ec9659dcef5f9b0791e51d33a = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_8066ebfd7de90136b549d99ff1832397 = $(`<div id="html_8066ebfd7de90136b549d99ff1832397" style="width: 100.0%; height: 100.0%;">         <b>Stop 7</b><br>         Consignment ID: 72191<br>         User ID: 149<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_724ea32ec9659dcef5f9b0791e51d33a.setContent(html_8066ebfd7de90136b549d99ff1832397);
+            
+        
+
+        marker_d940c766c6b883a9411cfb52e6852758.bindPopup(popup_724ea32ec9659dcef5f9b0791e51d33a)
+        ;
+
+        
+    
+    
+            marker_d940c766c6b883a9411cfb52e6852758.bindTooltip(
+                `<div>
+                     Stop 7
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3419003334328d14eb5ea5944c2c0b99 = L.marker(
+                [22.87, 88.41],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_337f332da0492b95159c9918b1557da5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3419003334328d14eb5ea5944c2c0b99.setIcon(icon_337f332da0492b95159c9918b1557da5);
+        
+    
+        var popup_ad2053eb2b7479f4880db2f846d8ab10 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_6221839e65fcab413ee26464538b3905 = $(`<div id="html_6221839e65fcab413ee26464538b3905" style="width: 100.0%; height: 100.0%;">         <b>Stop 8</b><br>         Consignment ID: 73503<br>         User ID: 44<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_ad2053eb2b7479f4880db2f846d8ab10.setContent(html_6221839e65fcab413ee26464538b3905);
+            
+        
+
+        marker_3419003334328d14eb5ea5944c2c0b99.bindPopup(popup_ad2053eb2b7479f4880db2f846d8ab10)
+        ;
+
+        
+    
+    
+            marker_3419003334328d14eb5ea5944c2c0b99.bindTooltip(
+                `<div>
+                     Stop 8
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eaca9118af068d0cfbc7ba4addebf46a = L.marker(
+                [22.72, 88.48],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_180263f757f625c7cb4142808643ceff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_eaca9118af068d0cfbc7ba4addebf46a.setIcon(icon_180263f757f625c7cb4142808643ceff);
+        
+    
+        var popup_cb1465ca5cfba908d8374f78ece44bc8 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_c3ff823f077a741a9fffca679f34380c = $(`<div id="html_c3ff823f077a741a9fffca679f34380c" style="width: 100.0%; height: 100.0%;">         <b>Stop 9</b><br>         Consignment ID: 69556<br>         User ID: 141<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_cb1465ca5cfba908d8374f78ece44bc8.setContent(html_c3ff823f077a741a9fffca679f34380c);
+            
+        
+
+        marker_eaca9118af068d0cfbc7ba4addebf46a.bindPopup(popup_cb1465ca5cfba908d8374f78ece44bc8)
+        ;
+
+        
+    
+    
+            marker_eaca9118af068d0cfbc7ba4addebf46a.bindTooltip(
+                `<div>
+                     Stop 9
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_22bc8c6182e9a43235d575bcb30e97e5 = L.marker(
+                [22.61, 88.4],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_bd82ffe6c792410a22dc07bf68586301 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_22bc8c6182e9a43235d575bcb30e97e5.setIcon(icon_bd82ffe6c792410a22dc07bf68586301);
+        
+    
+        var popup_7fd2ceb3432f32e8ce27cae884f7ca71 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_285b2966999f33d4e159739e125d0a55 = $(`<div id="html_285b2966999f33d4e159739e125d0a55" style="width: 100.0%; height: 100.0%;">         <b>Stop 10</b><br>         Consignment ID: 73504<br>         User ID: 44<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_7fd2ceb3432f32e8ce27cae884f7ca71.setContent(html_285b2966999f33d4e159739e125d0a55);
+            
+        
+
+        marker_22bc8c6182e9a43235d575bcb30e97e5.bindPopup(popup_7fd2ceb3432f32e8ce27cae884f7ca71)
+        ;
+
+        
+    
+    
+            marker_22bc8c6182e9a43235d575bcb30e97e5.bindTooltip(
+                `<div>
+                     Stop 10
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_25bbe750f8222f182368e83a468cb22e = L.marker(
+                [22.58, 88.42],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_4e3a14161b7b6e5283ec0288287bba61 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_25bbe750f8222f182368e83a468cb22e.setIcon(icon_4e3a14161b7b6e5283ec0288287bba61);
+        
+    
+        var popup_0ca1d66504230327fac8207d1310fbb9 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_ad073a2ab2f7fe74d611d87674b59af6 = $(`<div id="html_ad073a2ab2f7fe74d611d87674b59af6" style="width: 100.0%; height: 100.0%;">         <b>Stop 11</b><br>         Consignment ID: 55189<br>         User ID: 40<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_0ca1d66504230327fac8207d1310fbb9.setContent(html_ad073a2ab2f7fe74d611d87674b59af6);
+            
+        
+
+        marker_25bbe750f8222f182368e83a468cb22e.bindPopup(popup_0ca1d66504230327fac8207d1310fbb9)
+        ;
+
+        
+    
+    
+            marker_25bbe750f8222f182368e83a468cb22e.bindTooltip(
+                `<div>
+                     Stop 11
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c667f4d63633242948b44fcfdc8626ae = L.marker(
+                [22.5675, 88.37],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_3ca55ce6d0ec593068ddb74463979369 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c667f4d63633242948b44fcfdc8626ae.setIcon(icon_3ca55ce6d0ec593068ddb74463979369);
+        
+    
+        var popup_190338ce644628902a7f1c34cd26bbea = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_eea637a49090fc54b7cffab14971f349 = $(`<div id="html_eea637a49090fc54b7cffab14971f349" style="width: 100.0%; height: 100.0%;">         <b>Stop 12</b><br>         Consignment ID: 75669<br>         User ID: 24<br>         Time Slot: 10:00 AM - 12:00 PM         </div>`)[0];
+                popup_190338ce644628902a7f1c34cd26bbea.setContent(html_eea637a49090fc54b7cffab14971f349);
+            
+        
+
+        marker_c667f4d63633242948b44fcfdc8626ae.bindPopup(popup_190338ce644628902a7f1c34cd26bbea)
+        ;
+
+        
+    
+    
+            marker_c667f4d63633242948b44fcfdc8626ae.bindTooltip(
+                `<div>
+                     Stop 12
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_33a914dfbaaf7301799a7201948e34c1 = L.marker(
+                [22.5, 88.4],
+                {}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            var icon_366bfd275829c66a9b047e82d23dc130 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_33a914dfbaaf7301799a7201948e34c1.setIcon(icon_366bfd275829c66a9b047e82d23dc130);
+        
+    
+        var popup_7a2930a96c16aec8f26b9438c64f6234 = L.popup({"maxWidth": 300});
+
+        
+            
+                var html_d3a3d04dbf8fa0d3198027e99c3e9552 = $(`<div id="html_d3a3d04dbf8fa0d3198027e99c3e9552" style="width: 100.0%; height: 100.0%;">         <b>Stop 13</b><br>         Consignment ID: 0<br>         User ID: 0<br>         Time Slot: N/A         </div>`)[0];
+                popup_7a2930a96c16aec8f26b9438c64f6234.setContent(html_d3a3d04dbf8fa0d3198027e99c3e9552);
+            
+        
+
+        marker_33a914dfbaaf7301799a7201948e34c1.bindPopup(popup_7a2930a96c16aec8f26b9438c64f6234)
+        ;
+
+        
+    
+    
+            var poly_line_e51f59fe16f70594e483021e37cb1873 = L.polyline(
+                [[22.5, 88.4], [22.47, 88.11], [22.58, 88.3294], [22.65, 88.34], [22.6686, 88.3704], [22.69, 88.37], [22.9, 88.39], [22.89, 88.42], [22.87, 88.41], [22.72, 88.48], [22.61, 88.4], [22.58, 88.42], [22.5675, 88.37], [22.5, 88.4], [22.5, 88.4]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            poly_line_e51f59fe16f70594e483021e37cb1873.bindTooltip(
+                `<div>
+                     Total Distance: 148.99 km
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            ant_path_dcef2dd88df91198091508b1c628e6a9 = L.polyline.antPath(
+              [[22.5, 88.4], [22.47, 88.11], [22.58, 88.3294], [22.65, 88.34], [22.6686, 88.3704], [22.69, 88.37], [22.9, 88.39], [22.89, 88.42], [22.87, 88.41], [22.72, 88.48], [22.61, 88.4], [22.58, 88.42], [22.5675, 88.37], [22.5, 88.4], [22.5, 88.4]],
+              {"bubblingMouseEvents": true, "color": "red", "dashArray": [10, 20], "dashOffset": null, "delay": 1000, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "hardwareAcceleration": false, "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5, "paused": false, "pulseColor": "black", "reverse": false, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+        ).addTo(map_c71c13b9c350672724ac764f65a9af4f);
+        
+    
+            ant_path_dcef2dd88df91198091508b1c628e6a9.bindTooltip(
+                `<div>
+                     Route Path
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

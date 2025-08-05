@@ -1,0 +1,985 @@
+Days for shipping (real),Days for shipment (scheduled),Delivery Status,Customer Segment,Latitude,Longitude,Order City,order date (DateOrders),Order Item Id,Order Item Quantity,Order State,shipping date (DateOrders),Shipping Mode,User ID,Admin Recomended Slots/Previous Optimized Delivered Slots,Parcel Delivered in This Slot,Machine Prediction
+3,4,Advance shipping,Home Office,18.35124588,-65.96308899,Ajmer,3/18/2016 0:46,75669,3,Rajastan,3/21/2016 0:46,Standard Class,24,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.35124588,-65.96308899,Ajmer,3/18/2016 0:46,75667,3,Rajastan,3/21/2016 0:46,Standard Class,24,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.35124588,-65.96308899,Ajmer,3/18/2016 0:46,75668,5,Rajastan,3/21/2016 0:46,Standard Class,24,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Consumer,36.95009995,-76.24848938,Surat,12/14/2015 22:06,59650,1,Guyarat,12/20/2015 22:06,Second Class,33,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Consumer,36.95009995,-76.24848938,Surat,12/14/2015 22:06,59651,4,Guyarat,12/20/2015 22:06,Second Class,33,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,18.22408485,-66.04698181,Srinagar,2/1/2016 23:18,62993,1,Uttarakhand,8/1/2016 23:18,Standard Class,39,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,18.22408485,-66.04698181,Srinagar,2/1/2016 23:18,62994,1,Uttarakhand,8/1/2016 23:18,Standard Class,39,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.22408485,-66.04698181,Srinagar,2/1/2016 23:18,62995,1,Uttarakhand,8/1/2016 23:18,Standard Class,39,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.22408485,-66.04698181,Srinagar,2/1/2016 23:18,62992,3,Uttarakhand,8/1/2016 23:18,Standard Class,39,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.56687927,-117.7633209,Panihati,11/19/2015 0:36,55191,1,Bengala Occidental,11/21/2015 0:36,First Class,40,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.56687927,-117.7633209,Panihati,11/19/2015 0:36,55190,1,Bengala Occidental,11/21/2015 0:36,First Class,40,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,33.56687927,-117.7633209,Panihati,11/19/2015 0:36,55189,2,Bengala Occidental,11/21/2015 0:36,First Class,40,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,33.56687927,-117.7633209,Ulhasnagar,2/29/2016 14:49,72785,5,Maharashtra,5/3/2016 14:49,Standard Class,40,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,33.56687927,-117.7633209,Ulhasnagar,2/29/2016 14:49,72784,5,Maharashtra,5/3/2016 14:49,Standard Class,40,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.56687927,-117.7633209,Panihati,11/19/2015 0:36,55192,4,Bengala Occidental,11/21/2015 0:36,First Class,40,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.56687927,-117.7633209,Panihati,11/19/2015 0:36,55193,1,Bengala Occidental,11/21/2015 0:36,First Class,40,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.27657318,-66.03531647,Hyderabad,2/18/2016 0:59,70791,1,Telangana,2/20/2016 0:59,Standard Class,43,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.27657318,-66.03531647,Hyderabad,2/18/2016 0:59,70788,1,Telangana,2/20/2016 0:59,Standard Class,43,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.27657318,-66.03531647,Hyderabad,2/18/2016 0:59,70789,3,Telangana,2/20/2016 0:59,Standard Class,43,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.27657318,-66.03531647,Hyderabad,2/18/2016 0:59,70790,5,Telangana,2/20/2016 0:59,Standard Class,43,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.27657318,-66.03531647,Hyderabad,2/18/2016 0:59,70792,1,Telangana,2/20/2016 0:59,Standard Class,43,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,38.30553055,-122.2734375,Raipur,4/3/2016 19:43,73504,1,Chhattisgarh,7/3/2016 19:43,Second Class,44,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,38.30553055,-122.2734375,Raipur,4/3/2016 19:43,73503,2,Chhattisgarh,7/3/2016 19:43,Second Class,44,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,38.30553055,-122.2734375,Raipur,4/3/2016 19:43,73502,3,Chhattisgarh,7/3/2016 19:43,Second Class,44,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,38.30553055,-122.2734375,Raipur,4/3/2016 19:43,73501,2,Chhattisgarh,7/3/2016 19:43,Second Class,44,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,33.73583221,-118.2922211,Delhi,12/24/2015 0:01,61206,1,Delhi,12/27/2015 0:01,Standard Class,70,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,33.73583221,-118.2922211,Delhi,12/24/2015 0:01,61205,5,Delhi,12/27/2015 0:01,Standard Class,70,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,33.73583221,-118.2922211,Delhi,12/24/2015 0:01,61202,1,Delhi,12/27/2015 0:01,Standard Class,70,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,33.73583221,-118.2922211,Delhi,12/24/2015 0:01,61204,3,Delhi,12/27/2015 0:01,Standard Class,70,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,33.73583221,-118.2922211,Delhi,12/24/2015 0:01,61203,2,Delhi,12/27/2015 0:01,Standard Class,70,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.22769547,-66.04356384,Bhiwandi,2/26/2016 5:32,72209,4,Maharashtra,2/29/2016 5:32,Standard Class,77,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,18.22769547,-66.04356384,Bhiwandi,2/26/2016 5:32,72208,1,Maharashtra,2/29/2016 5:32,Standard Class,77,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Consumer,18.2276001,-66.0435791,Mumbai,9/3/2016 23:02,74376,4,Maharashtra,3/14/2016 23:02,Second Class,85,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,18.2276001,-66.0435791,Mumbai,9/3/2016 23:02,74375,1,Maharashtra,3/14/2016 23:02,Second Class,85,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,37.6722908,-121.0311356,Nasik,6/3/2016 5:21,73741,1,Maharashtra,8/3/2016 5:21,First Class,103,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.6722908,-121.0311356,Nasik,6/3/2016 5:21,73740,1,Maharashtra,8/3/2016 5:21,First Class,103,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,32.71671677,-116.997261,Mangalore,10/2/2016 14:40,69556,1,Karnataka,2/13/2016 14:40,Standard Class,141,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,32.71671677,-116.997261,Mangalore,10/2/2016 14:40,69557,1,Karnataka,2/13/2016 14:40,Standard Class,141,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,25.89972687,-80.25153351,Mumbai,11/2/2016 15:32,69738,5,Maharashtra,2/15/2016 15:32,Standard Class,142,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.89972687,-80.25153351,Mumbai,11/2/2016 15:32,69736,1,Maharashtra,2/15/2016 15:32,Standard Class,142,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.89972687,-80.25153351,Mumbai,11/2/2016 15:32,69737,2,Maharashtra,2/15/2016 15:32,Standard Class,142,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.89972687,-80.25153351,Mumbai,11/2/2016 15:32,69740,3,Maharashtra,2/15/2016 15:32,Standard Class,142,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.89972687,-80.25153351,Mumbai,11/2/2016 15:32,69739,3,Maharashtra,2/15/2016 15:32,Standard Class,142,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,32.79872894,-116.9538727,Malegaon,2/26/2016 3:26,72192,3,Maharashtra,2/28/2016 3:26,Second Class,149,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,32.79872894,-116.9538727,Malegaon,2/26/2016 3:26,72191,4,Maharashtra,2/28/2016 3:26,Second Class,149,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,32.79872894,-116.9538727,Malegaon,2/26/2016 3:26,72189,5,Maharashtra,2/28/2016 3:26,Second Class,149,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,32.79872894,-116.9538727,Malegaon,2/26/2016 3:26,72190,1,Maharashtra,2/28/2016 3:26,Second Class,149,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,25.81123352,-80.26307678,Hisar,7/12/2015 2:40,58339,1,Haryana,12/13/2015 2:40,Standard Class,161,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,25.81123352,-80.26307678,Hisar,7/12/2015 2:40,58337,2,Haryana,12/13/2015 2:40,Standard Class,161,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,25.81123352,-80.26307678,Hisar,7/12/2015 2:40,58335,3,Haryana,12/13/2015 2:40,Standard Class,161,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,25.81123352,-80.26307678,Hisar,7/12/2015 2:40,58338,4,Haryana,12/13/2015 2:40,Standard Class,161,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,25.81123352,-80.26307678,Hisar,7/12/2015 2:40,58336,2,Haryana,12/13/2015 2:40,Standard Class,161,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Home Office,18.1464901,-66.54896545,Surat,1/23/2016 15:02,66487,1,Guyarat,1/29/2016 15:02,Standard Class,174,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,18.1464901,-66.54896545,Surat,1/23/2016 15:02,66486,1,Guyarat,1/29/2016 15:02,Standard Class,174,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,18.1464901,-66.54896545,Surat,1/23/2016 15:02,66488,5,Guyarat,1/29/2016 15:02,Standard Class,174,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,18.24755859,-66.02539063,Bangalore,1/30/2016 7:51,67667,1,Karnataka,4/2/2016 7:51,Standard Class,217,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Corporate,18.24755859,-66.02539063,Bangalore,1/30/2016 7:51,67666,5,Karnataka,4/2/2016 7:51,Standard Class,217,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.24755478,-66.02524567,Bokaro,2/3/2016 14:49,73101,3,Jharkhand,4/3/2016 14:49,Standard Class,225,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.24755478,-66.02524567,Bokaro,2/3/2016 14:49,73102,3,Jharkhand,4/3/2016 14:49,Standard Class,225,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.24755478,-66.02524567,Bokaro,2/3/2016 14:49,73100,1,Jharkhand,4/3/2016 14:49,Standard Class,225,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Home Office,33.42093277,-111.897377,Belgaum,6/1/2016 20:09,63638,1,Karnataka,12/1/2016 20:09,Second Class,227,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Home Office,33.42093277,-111.897377,Belgaum,6/1/2016 20:09,63637,1,Karnataka,12/1/2016 20:09,Second Class,227,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Home Office,33.42093277,-111.897377,Belgaum,6/1/2016 20:09,63639,5,Karnataka,12/1/2016 20:09,Second Class,227,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,41.71432495,-87.79169464,Pune,9/11/2015 13:13,53546,1,Maharashtra,11/11/2015 13:13,First Class,246,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,41.71432495,-87.79169464,Pune,9/11/2015 13:13,53544,1,Maharashtra,11/11/2015 13:13,First Class,246,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,41.71432495,-87.79169464,Pune,9/11/2015 13:13,53543,1,Maharashtra,11/11/2015 13:13,First Class,246,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,41.71432495,-87.79169464,Pune,9/11/2015 13:13,53547,2,Maharashtra,11/11/2015 13:13,First Class,246,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,41.71432495,-87.79169464,Pune,9/11/2015 13:13,53545,2,Maharashtra,11/11/2015 13:13,First Class,246,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,18.35901833,-66.078125,Aligarh,12/19/2015 18:04,60446,1,Uttar Pradesh,12/21/2015 18:04,Standard Class,247,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.35901833,-66.078125,Aligarh,12/19/2015 18:04,60445,1,Uttar Pradesh,12/21/2015 18:04,Standard Class,247,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.35901833,-66.078125,Aligarh,12/19/2015 18:04,60448,3,Uttar Pradesh,12/21/2015 18:04,Standard Class,247,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.35901833,-66.078125,Aligarh,12/19/2015 18:04,60447,2,Uttar Pradesh,12/21/2015 18:04,Standard Class,247,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,31.09787178,-99.80877686,Tiruchchirappalli,2/23/2016 2:55,71698,5,Tamil Nadu,2/28/2016 2:55,Standard Class,254,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,31.09787178,-99.80877686,Tiruchchirappalli,2/23/2016 2:55,71694,1,Tamil Nadu,2/28/2016 2:55,Standard Class,254,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,31.09787178,-99.80877686,Tiruchchirappalli,2/23/2016 2:55,71697,1,Tamil Nadu,2/28/2016 2:55,Standard Class,254,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,31.09787178,-99.80877686,Tiruchchirappalli,2/23/2016 2:55,71696,1,Tamil Nadu,2/28/2016 2:55,Standard Class,254,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,18.22089768,-66.00357819,Rajkot,2/18/2016 0:17,70782,1,Guyarat,2/23/2016 0:17,Standard Class,255,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,18.22089768,-66.00357819,Rajkot,2/18/2016 0:17,70780,4,Guyarat,2/23/2016 0:17,Standard Class,255,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,18.22089768,-66.00357819,Rajkot,2/18/2016 0:17,70779,5,Guyarat,2/23/2016 0:17,Standard Class,255,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,18.22089768,-66.00357819,Rajkot,2/18/2016 0:17,70781,5,Guyarat,2/23/2016 0:17,Standard Class,255,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,41.83272171,-87.98048401,Aligarh,12/16/2015 21:45,60006,5,Uttar Pradesh,12/18/2015 21:45,Standard Class,256,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,41.83272171,-87.98048401,Aligarh,12/16/2015 21:45,60008,1,Uttar Pradesh,12/18/2015 21:45,Standard Class,256,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,41.83272171,-87.98048401,Aligarh,12/16/2015 21:45,60007,1,Uttar Pradesh,12/18/2015 21:45,Standard Class,256,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,33.86559296,-118.0953369,Malegaon,2/26/2016 3:47,72195,5,Maharashtra,2/28/2016 3:47,First Class,261,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,33.86559296,-118.0953369,Malegaon,2/26/2016 3:47,72194,5,Maharashtra,2/28/2016 3:47,First Class,261,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,33.86559296,-118.0953369,Malegaon,2/26/2016 3:47,72196,1,Maharashtra,2/28/2016 3:47,First Class,261,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,33.86559296,-118.0953369,Malegaon,2/26/2016 3:47,72193,1,Maharashtra,2/28/2016 3:47,First Class,261,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.35920334,-66.07658386,Meerut,1/14/2016 7:52,64880,1,Uttar Pradesh,1/18/2016 7:52,Standard Class,279,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.35920334,-66.07658386,Meerut,1/14/2016 7:52,64879,3,Uttar Pradesh,1/18/2016 7:52,Standard Class,279,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Consumer,18.3590107,-66.07815552,Thane,2/25/2016 5:01,72043,1,Maharashtra,2/28/2016 5:01,Second Class,287,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Consumer,18.3590107,-66.07815552,Thane,2/25/2016 5:01,72045,1,Maharashtra,2/28/2016 5:01,Second Class,287,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Consumer,18.3590107,-66.07815552,Thane,2/25/2016 5:01,72044,1,Maharashtra,2/28/2016 5:01,Second Class,287,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,29.55552483,-95.71289825,Ichalkaranji,11/12/2015 3:22,58980,1,Maharashtra,12/13/2015 3:22,Standard Class,317,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,29.55552483,-95.71289825,Ichalkaranji,11/12/2015 3:22,58979,1,Maharashtra,12/13/2015 3:22,Standard Class,317,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,29.55552483,-95.71289825,Ichalkaranji,11/12/2015 3:22,58982,1,Maharashtra,12/13/2015 3:22,Standard Class,317,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,29.55552483,-95.71289825,Ichalkaranji,11/12/2015 3:22,58981,2,Maharashtra,12/13/2015 3:22,Standard Class,317,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,41.89497757,-87.77729034,Visakhapatnam,3/14/2016 3:56,75052,4,Andhra Pradesh,3/17/2016 3:56,Second Class,319,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,41.89497757,-87.77729034,Visakhapatnam,3/14/2016 3:56,75051,1,Andhra Pradesh,3/17/2016 3:56,Second Class,319,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,18.3590126,-66.07813263,Solapur,4/2/2016 6:37,68504,1,Maharashtra,8/2/2016 6:37,Second Class,333,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.3590126,-66.07813263,Solapur,4/2/2016 6:37,68503,1,Maharashtra,8/2/2016 6:37,Second Class,333,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,40.6487999,-73.94863892,Nasik,1/24/2016 22:13,66717,1,Maharashtra,1/29/2016 22:13,Standard Class,336,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,40.6487999,-73.94863892,Nasik,1/24/2016 22:13,66718,1,Maharashtra,1/29/2016 22:13,Standard Class,336,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,32.87127686,-97.32331848,Kalyan,2/11/2015 15:30,52314,3,Maharashtra,7/11/2015 15:30,Standard Class,343,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,32.87127686,-97.32331848,Kalyan,2/11/2015 15:30,52312,3,Maharashtra,7/11/2015 15:30,Standard Class,343,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,32.87127686,-97.32331848,Kalyan,2/11/2015 15:30,52316,5,Maharashtra,7/11/2015 15:30,Standard Class,343,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,32.87127686,-97.32331848,Kalyan,2/11/2015 15:30,52315,1,Maharashtra,7/11/2015 15:30,Standard Class,343,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,32.87127686,-97.32331848,Kalyan,2/11/2015 15:30,52313,1,Maharashtra,7/11/2015 15:30,Standard Class,343,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.24761581,-66.02522278,Faridabad,1/15/2016 5:36,65032,1,Haryana,1/17/2016 5:36,First Class,363,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.24761581,-66.02522278,Faridabad,1/15/2016 5:36,65029,3,Haryana,1/17/2016 5:36,First Class,363,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.24761581,-66.02522278,Faridabad,1/15/2016 5:36,65028,2,Haryana,1/17/2016 5:36,First Class,363,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.24761581,-66.02522278,Faridabad,1/15/2016 5:36,65030,1,Haryana,1/17/2016 5:36,First Class,363,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.24761581,-66.02522278,Faridabad,1/15/2016 5:36,65031,4,Haryana,1/17/2016 5:36,First Class,363,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,18.24754334,-66.0253067,Delhi,2/14/2016 20:16,70237,1,Delhi,2/16/2016 20:16,First Class,376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,18.24754334,-66.0253067,Delhi,2/14/2016 20:16,70241,1,Delhi,2/16/2016 20:16,First Class,376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,18.24754334,-66.0253067,Delhi,2/14/2016 20:16,70238,1,Delhi,2/16/2016 20:16,First Class,376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,18.24754334,-66.0253067,Delhi,2/14/2016 20:16,70239,3,Delhi,2/16/2016 20:16,First Class,376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,18.24754334,-66.0253067,Delhi,2/14/2016 20:16,70240,1,Delhi,2/16/2016 20:16,First Class,376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.24751091,-66.02523804,Visakhapatnam,3/13/2016 20:14,75009,5,Andhra Pradesh,3/19/2016 20:14,Standard Class,387,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.24751091,-66.02523804,Visakhapatnam,3/13/2016 20:14,75010,1,Andhra Pradesh,3/19/2016 20:14,Standard Class,387,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,18.24751091,-66.02523804,Visakhapatnam,3/13/2016 20:14,75008,3,Andhra Pradesh,3/19/2016 20:14,Standard Class,387,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Corporate,18.24760056,-66.02527618,Mumbai,2/20/2016 19:33,71296,2,Maharashtra,2/22/2016 19:33,Second Class,400,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Corporate,18.24760056,-66.02527618,Mumbai,2/20/2016 19:33,71295,1,Maharashtra,2/22/2016 19:33,Second Class,400,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Corporate,18.24760056,-66.02527618,Mumbai,2/20/2016 19:33,71293,1,Maharashtra,2/22/2016 19:33,Second Class,400,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Corporate,18.24760056,-66.02527618,Mumbai,2/20/2016 19:33,71294,3,Maharashtra,2/22/2016 19:33,Second Class,400,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.22758293,-66.04355621,Jamshedpur,2/23/2016 23:14,71844,2,Jharkhand,2/26/2016 23:14,Standard Class,404,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.22758293,-66.04355621,Jamshedpur,2/23/2016 23:14,71846,2,Jharkhand,2/26/2016 23:14,Standard Class,404,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.22758293,-66.04355621,Jamshedpur,2/23/2016 23:14,71843,5,Jharkhand,2/26/2016 23:14,Standard Class,404,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.22758293,-66.04355621,Jamshedpur,2/23/2016 23:14,71845,1,Jharkhand,2/26/2016 23:14,Standard Class,404,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,36.03313446,-79.79693604,Varanasi,3/13/2016 1:39,74897,4,Uttar Pradesh,3/13/2016 13:39,Same Day,409,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,36.03313446,-79.79693604,Patiala,3/12/2015 21:15,57786,1,Punyab,8/12/2015 21:15,Second Class,409,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+0,0,Shipping on time,Consumer,36.03313446,-79.79693604,Varanasi,3/13/2016 1:39,74896,5,Uttar Pradesh,3/13/2016 13:39,Same Day,409,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+0,0,Shipping on time,Consumer,36.03313446,-79.79693604,Varanasi,3/13/2016 1:39,74895,4,Uttar Pradesh,3/13/2016 13:39,Same Day,409,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,18.22758865,-66.04354096,Jaipur,3/1/2016 22:05,63173,1,Rajastan,9/1/2016 22:05,Standard Class,427,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,18.22758865,-66.04354096,Jaipur,3/1/2016 22:05,63175,1,Rajastan,9/1/2016 22:05,Standard Class,427,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,18.22758865,-66.04354096,Jaipur,3/1/2016 22:05,63174,2,Rajastan,9/1/2016 22:05,Standard Class,427,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,18.22758865,-66.04354096,Jaipur,3/1/2016 22:05,63172,4,Rajastan,9/1/2016 22:05,Standard Class,427,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,41.44664383,-82.70783997,Bangalore,12/21/2015 5:06,60694,5,Karnataka,12/23/2015 5:06,Standard Class,431,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,41.44664383,-82.70783997,Bangalore,12/21/2015 5:06,60693,1,Karnataka,12/23/2015 5:06,Standard Class,431,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,18.22759628,-66.04355621,Raipur,2/19/2016 8:52,71034,1,Uttarakhand,2/22/2016 8:52,Standard Class,439,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.22759628,-66.04355621,Raipur,2/19/2016 8:52,71035,2,Uttarakhand,2/22/2016 8:52,Standard Class,439,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.22759628,-66.04355621,Raipur,2/19/2016 8:52,71036,3,Uttarakhand,2/22/2016 8:52,Standard Class,439,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,38.84942627,-104.9264526,Anantapur,11/18/2015 17:14,55130,2,Andhra Pradesh,11/24/2015 17:14,Standard Class,455,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,38.84942627,-104.9264526,Anantapur,11/18/2015 17:14,55129,2,Andhra Pradesh,11/24/2015 17:14,Standard Class,455,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,35.81321335,-78.87046814,Hubli,11/16/2015 11:38,54735,1,Karnataka,11/18/2015 11:38,First Class,464,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,35.81321335,-78.87046814,Hubli,11/16/2015 11:38,54736,4,Karnataka,11/18/2015 11:38,First Class,464,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,35.81321335,-78.87046814,Hubli,11/16/2015 11:38,54737,1,Karnataka,11/18/2015 11:38,First Class,464,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,29.54194069,-95.60385132,Durg,11/13/2015 14:58,54260,2,Chhattisgarh,11/15/2015 14:58,Standard Class,532,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,29.54194069,-95.60385132,Durg,11/13/2015 14:58,54262,2,Chhattisgarh,11/15/2015 14:58,Standard Class,532,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,29.54194069,-95.60385132,Durg,11/13/2015 14:58,54261,1,Chhattisgarh,11/15/2015 14:58,Standard Class,532,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,29.54194069,-95.60385132,Durg,11/13/2015 14:58,54263,1,Chhattisgarh,11/15/2015 14:58,Standard Class,532,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.35910034,-66.07789612,Jhansi,7/3/2016 5:10,73925,1,Uttar Pradesh,9/3/2016 5:10,Second Class,551,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,18.35910034,-66.07789612,Jhansi,7/3/2016 5:10,73924,1,Uttar Pradesh,9/3/2016 5:10,Second Class,551,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,18.35910034,-66.07789612,Jhansi,7/3/2016 5:10,73927,1,Uttar Pradesh,9/3/2016 5:10,Second Class,551,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,18.35910034,-66.07789612,Jhansi,7/3/2016 5:10,73926,1,Uttar Pradesh,9/3/2016 5:10,Second Class,551,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,40.20003891,-77.24391937,Kanpur,4/2/2016 16:26,68576,1,Uttar Pradesh,6/2/2016 16:26,Standard Class,558,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,40.20003891,-77.24391937,Kanpur,4/2/2016 16:26,68575,4,Uttar Pradesh,6/2/2016 16:26,Standard Class,558,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,40.20003891,-77.24391937,Kanpur,4/2/2016 16:26,68574,2,Uttar Pradesh,6/2/2016 16:26,Standard Class,558,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,40.20003891,-77.24391937,Kanpur,4/2/2016 16:26,68577,3,Uttar Pradesh,6/2/2016 16:26,Standard Class,558,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.35910034,-66.07790375,Bangalore,12/17/2015 13:31,60096,4,Karnataka,12/19/2015 13:31,Standard Class,604,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,18.35910034,-66.07790375,Bangalore,12/17/2015 13:31,60097,1,Karnataka,12/19/2015 13:31,Standard Class,604,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,29.77217293,-95.18963623,Fatehpur,11/15/2015 23:43,54653,1,Rajastan,11/19/2015 23:43,Standard Class,619,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,29.77217293,-95.18963623,Fatehpur,11/15/2015 23:43,54652,1,Rajastan,11/19/2015 23:43,Standard Class,619,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,29.77217293,-95.18963623,Fatehpur,11/15/2015 23:43,54651,3,Rajastan,11/19/2015 23:43,Standard Class,619,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,29.77217293,-95.18963623,Fatehpur,11/15/2015 23:43,54650,5,Rajastan,11/19/2015 23:43,Standard Class,619,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Shipping canceled,Consumer,18.35900497,-66.07785797,Jhansi,3/3/2016 22:42,73354,1,Uttar Pradesh,6/3/2016 22:42,Standard Class,620,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Shipping canceled,Consumer,18.35900497,-66.07785797,Jhansi,3/3/2016 22:42,73355,2,Uttar Pradesh,6/3/2016 22:42,Standard Class,620,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Shipping canceled,Consumer,18.35900497,-66.07785797,Jhansi,3/3/2016 22:42,73356,4,Uttar Pradesh,6/3/2016 22:42,Standard Class,620,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Shipping canceled,Consumer,18.35900497,-66.07785797,Jhansi,3/3/2016 22:42,73353,1,Uttar Pradesh,6/3/2016 22:42,Standard Class,620,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.35909081,-66.07790375,Srinagar,10/3/2016 6:23,74437,3,Jammu y Cachemira,12/3/2016 6:23,First Class,622,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.35909081,-66.07790375,Srinagar,10/3/2016 6:23,74438,3,Jammu y Cachemira,12/3/2016 6:23,First Class,622,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,33.94857025,-117.4247208,Tiruchchirappalli,2/23/2016 3:16,71703,1,Tamil Nadu,2/25/2016 3:16,First Class,634,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,33.94857025,-117.4247208,Tiruchchirappalli,2/23/2016 3:16,71700,1,Tamil Nadu,2/25/2016 3:16,First Class,634,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,33.94857025,-117.4247208,Tiruchchirappalli,2/23/2016 3:16,71702,2,Tamil Nadu,2/25/2016 3:16,First Class,634,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,33.94857025,-117.4247208,Tiruchchirappalli,2/23/2016 3:16,71701,3,Tamil Nadu,2/25/2016 3:16,First Class,634,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,33.94857025,-117.4247208,Tiruchchirappalli,2/23/2016 3:16,71699,2,Tamil Nadu,2/25/2016 3:16,First Class,634,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,18.35911751,-66.07787323,Chandigarh,10/2/2016 22:01,69618,3,Chandigarh,2/14/2016 22:01,Standard Class,644,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Home Office,18.35911751,-66.07787323,Chandigarh,10/2/2016 22:01,69617,1,Chandigarh,2/14/2016 22:01,Standard Class,644,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Home Office,29.51066399,-98.54441071,Solapur,5/11/2015 13:56,52846,1,Maharashtra,11/11/2015 13:56,Standard Class,664,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,29.51066399,-98.54441071,Solapur,5/11/2015 13:56,52844,1,Maharashtra,11/11/2015 13:56,Standard Class,664,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,29.51066399,-98.54441071,Solapur,5/11/2015 13:56,52848,3,Maharashtra,11/11/2015 13:56,Standard Class,664,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,29.51066399,-98.54441071,Solapur,5/11/2015 13:56,52845,1,Maharashtra,11/11/2015 13:56,Standard Class,664,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,29.51066399,-98.54441071,Solapur,5/11/2015 13:56,52847,1,Maharashtra,11/11/2015 13:56,Standard Class,664,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.24757767,-66.02545929,Visakhapatnam,12/12/2015 8:27,59203,1,Andhra Pradesh,12/14/2015 8:27,First Class,670,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.24757767,-66.02545929,Visakhapatnam,12/12/2015 8:27,59200,3,Andhra Pradesh,12/14/2015 8:27,First Class,670,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.24757767,-66.02545929,Visakhapatnam,12/12/2015 8:27,59201,3,Andhra Pradesh,12/14/2015 8:27,First Class,670,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.24757767,-66.02545929,Visakhapatnam,12/12/2015 8:27,59202,5,Andhra Pradesh,12/14/2015 8:27,First Class,670,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,25.91908455,-97.47012329,Saharanpur,2/23/2016 19:44,71814,1,Uttar Pradesh,2/25/2016 19:44,First Class,674,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,25.91908455,-97.47012329,Saharanpur,2/23/2016 19:44,71813,4,Uttar Pradesh,2/25/2016 19:44,First Class,674,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,25.91908455,-97.47012329,Saharanpur,2/23/2016 19:44,71812,4,Uttar Pradesh,2/25/2016 19:44,First Class,674,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,25.91908455,-97.47012329,Saharanpur,2/23/2016 19:44,71815,5,Uttar Pradesh,2/25/2016 19:44,First Class,674,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,25.91908455,-97.47012329,Saharanpur,2/23/2016 19:44,71816,5,Uttar Pradesh,2/25/2016 19:44,First Class,674,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,42.6516571,-83.60984039,Ludhiana,7/1/2016 0:21,63665,1,Punyab,10/1/2016 0:21,Standard Class,684,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,42.6516571,-83.60984039,Ludhiana,7/1/2016 0:21,63666,2,Punyab,10/1/2016 0:21,Standard Class,684,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Home Office,32.90361786,-117.0988388,Chennai,12/17/2015 1:15,60036,5,Tamil Nadu,12/19/2015 1:15,Second Class,686,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,32.90361786,-117.0988388,Chennai,12/17/2015 1:15,60034,1,Tamil Nadu,12/19/2015 1:15,Second Class,686,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,32.90361786,-117.0988388,Chennai,12/17/2015 1:15,60035,1,Tamil Nadu,12/19/2015 1:15,Second Class,686,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,32.90361786,-117.0988388,Chennai,12/17/2015 1:15,60032,1,Tamil Nadu,12/19/2015 1:15,Second Class,686,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,32.90361786,-117.0988388,Chennai,12/17/2015 1:15,60033,2,Tamil Nadu,12/19/2015 1:15,Second Class,686,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,40.74655533,-73.87952423,Patna,11/17/2015 0:36,54841,1,Bihar,11/22/2015 0:36,Standard Class,694,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,40.74655533,-73.87952423,Patna,11/17/2015 0:36,54839,1,Bihar,11/22/2015 0:36,Standard Class,694,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,40.74655533,-73.87952423,Patna,11/17/2015 0:36,54840,5,Bihar,11/22/2015 0:36,Standard Class,694,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,32.69543076,-117.0414734,Ludhiana,1/30/2016 20:49,67778,1,Punyab,1/2/2016 20:49,Standard Class,700,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,32.69543076,-117.0414734,Ludhiana,1/30/2016 20:49,67782,1,Punyab,1/2/2016 20:49,Standard Class,700,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Shipping canceled,Consumer,32.69543076,-117.0414734,Ludhiana,1/30/2016 20:49,67779,1,Punyab,1/2/2016 20:49,Standard Class,700,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,32.69543076,-117.0414734,Ludhiana,1/30/2016 20:49,67780,3,Punyab,1/2/2016 20:49,Standard Class,700,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,32.69543076,-117.0414734,Ludhiana,1/30/2016 20:49,67781,1,Punyab,1/2/2016 20:49,Standard Class,700,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,44.07210541,-12.13232708,Kanpur,2/14/2016 5:54,70143,1,Uttar Pradesh,2/16/2016 5:54,Standard Class,702,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,44.07210541,-12.13232708,Kanpur,2/14/2016 5:54,70145,3,Uttar Pradesh,2/16/2016 5:54,Standard Class,702,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,44.07210541,-12.13232708,Kanpur,2/14/2016 5:54,70144,1,Uttar Pradesh,2/16/2016 5:54,Standard Class,702,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,44.07210541,-12.13232708,Kanpur,2/14/2016 5:54,70142,1,Uttar Pradesh,2/16/2016 5:54,Standard Class,702,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Consumer,42.52603149,-90.68370056,Dewas,4/1/2016 12:47,63262,1,Madhya Pradesh,7/1/2016 12:47,Second Class,715,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Consumer,42.52603149,-90.68370056,Dewas,4/1/2016 12:47,63263,1,Madhya Pradesh,7/1/2016 12:47,Second Class,715,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Consumer,42.52603149,-90.68370056,Dewas,4/1/2016 12:47,63264,4,Madhya Pradesh,7/1/2016 12:47,Second Class,715,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Home Office,18.25021553,-66.07617188,Kanpur,10/25/2015 12:01,50878,1,Uttar Pradesh,10/27/2015 12:01,Standard Class,716,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.25021553,-66.07617188,Kanpur,10/25/2015 12:01,50879,1,Uttar Pradesh,10/27/2015 12:01,Standard Class,716,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.25021553,-66.07617188,Kanpur,10/25/2015 12:01,50880,1,Uttar Pradesh,10/27/2015 12:01,Standard Class,716,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,34.03364945,-118.144371,Kanpur,1/1/2016 15:04,62760,1,Uttar Pradesh,5/1/2016 15:04,Standard Class,737,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,34.03364945,-118.144371,Kanpur,1/1/2016 15:04,62759,1,Uttar Pradesh,5/1/2016 15:04,Standard Class,737,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,34.03364945,-118.144371,Kanpur,1/1/2016 15:04,62758,3,Uttar Pradesh,5/1/2016 15:04,Standard Class,737,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,34.03364945,-118.144371,Kanpur,1/1/2016 15:04,62761,2,Uttar Pradesh,5/1/2016 15:04,Standard Class,737,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,18.22582817,-66.04576111,Ajmer,12/18/2015 5:17,60203,1,Rajastan,12/20/2015 5:17,Standard Class,758,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.22582817,-66.04576111,Ajmer,12/18/2015 5:17,60204,1,Rajastan,12/20/2015 5:17,Standard Class,758,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.22582817,-66.04576111,Ajmer,12/18/2015 5:17,60205,5,Rajastan,12/20/2015 5:17,Standard Class,758,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.91519928,-118.3710251,Nizamabad,6/12/2015 0:45,58160,4,Telangana,8/12/2015 0:45,Second Class,759,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,33.91519928,-118.3710251,Nizamabad,6/12/2015 0:45,58162,1,Telangana,8/12/2015 0:45,Second Class,759,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,33.91519928,-118.3710251,Nizamabad,6/12/2015 0:45,58161,1,Telangana,8/12/2015 0:45,Second Class,759,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,33.91519928,-118.3710251,Nizamabad,6/12/2015 0:45,58163,1,Telangana,8/12/2015 0:45,Second Class,759,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,25.72912407,-80.24208069,Kukatpalli,1/17/2016 14:00,65439,1,Telangana,1/19/2016 14:00,Standard Class,803,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,25.72912407,-80.24208069,Kukatpalli,1/17/2016 14:00,65438,1,Telangana,1/19/2016 14:00,Standard Class,803,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Shipping canceled,Corporate,37.74835968,-122.4434967,Hyderabad,8/11/2015 19:42,53420,5,Telangana,10/11/2015 19:42,First Class,813,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Shipping canceled,Corporate,37.74835968,-122.4434967,Hyderabad,8/11/2015 19:42,53419,2,Telangana,10/11/2015 19:42,First Class,813,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,40.55156326,-74.44460297,Mangalore,3/11/2015 0:16,52401,1,Karnataka,5/11/2015 0:16,First Class,821,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,40.55156326,-74.44460297,Mangalore,3/11/2015 0:16,52402,5,Karnataka,5/11/2015 0:16,First Class,821,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,40.55156326,-74.44460297,Bihar Sharif,7/1/2016 18:34,63797,1,Bihar,8/1/2016 6:34,Same Day,821,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,40.55156326,-74.44460297,Bihar Sharif,7/1/2016 18:34,63800,1,Bihar,8/1/2016 6:34,Same Day,821,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,40.55156326,-74.44460297,Bihar Sharif,7/1/2016 18:34,63798,1,Bihar,8/1/2016 6:34,Same Day,821,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+1,0,Late delivery,Corporate,40.55156326,-74.44460297,Bihar Sharif,7/1/2016 18:34,63799,1,Bihar,8/1/2016 6:34,Same Day,821,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,42.23985291,-88.33761597,Faridabad,11/14/2015 3:14,54360,1,Haryana,11/16/2015 3:14,Standard Class,831,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Shipping canceled,Consumer,42.23985291,-88.33761597,Faridabad,11/14/2015 3:14,54361,1,Haryana,11/16/2015 3:14,Standard Class,831,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,42.23985291,-88.33761597,Faridabad,11/14/2015 3:14,54359,1,Haryana,11/16/2015 3:14,Standard Class,831,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Consumer,42.23985291,-88.33761597,Faridabad,11/14/2015 3:14,54358,1,Haryana,11/16/2015 3:14,Standard Class,831,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,40.84075546,-73.88039398,Muzaffarpur,9/3/2016 19:32,74343,1,Bihar,11/3/2016 19:32,First Class,841,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,40.84075546,-73.88039398,Muzaffarpur,9/3/2016 19:32,74344,1,Bihar,11/3/2016 19:32,First Class,841,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,40.84075546,-73.88039398,Muzaffarpur,9/3/2016 19:32,74345,1,Bihar,11/3/2016 19:32,First Class,841,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,40.84075546,-73.88039398,Muzaffarpur,9/3/2016 19:32,74342,1,Bihar,11/3/2016 19:32,First Class,841,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,37.97107697,-121.7875137,Ludhiana,11/29/2015 15:39,57036,1,Punyab,4/12/2015 15:39,Standard Class,847,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,37.97107697,-121.7875137,Ludhiana,11/29/2015 15:39,57038,1,Punyab,4/12/2015 15:39,Standard Class,847,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,37.97107697,-121.7875137,Ludhiana,11/29/2015 15:39,57039,3,Punyab,4/12/2015 15:39,Standard Class,847,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,37.97107697,-121.7875137,Ludhiana,11/29/2015 15:39,57037,3,Punyab,4/12/2015 15:39,Standard Class,847,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,33.99019623,-117.924057,Kukatpalli,1/17/2016 12:36,65431,5,Telangana,1/20/2016 12:36,Standard Class,853,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,33.99019623,-117.924057,Kukatpalli,1/17/2016 12:36,65433,1,Telangana,1/20/2016 12:36,Standard Class,853,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,33.99019623,-117.924057,Kukatpalli,1/17/2016 12:36,65430,3,Telangana,1/20/2016 12:36,Standard Class,853,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,33.99019623,-117.924057,Kukatpalli,1/17/2016 12:36,65432,1,Telangana,1/20/2016 12:36,Standard Class,853,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22412682,-66.04711914,Puducherry,12/22/2015 15:26,60943,1,Puducherry,12/24/2015 15:26,First Class,863,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22412682,-66.04711914,Puducherry,12/22/2015 15:26,60944,5,Puducherry,12/24/2015 15:26,First Class,863,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,39.92071915,-91.39421082,Sangli,11/1/2016 13:39,64438,1,Maharashtra,1/16/2016 13:39,Standard Class,866,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,39.92071915,-91.39421082,Sangli,11/1/2016 13:39,64437,1,Maharashtra,1/16/2016 13:39,Standard Class,866,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,39.92071915,-91.39421082,Sangli,11/1/2016 13:39,64435,1,Maharashtra,1/16/2016 13:39,Standard Class,866,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,39.92071915,-91.39421082,Sangli,11/1/2016 13:39,64436,2,Maharashtra,1/16/2016 13:39,Standard Class,866,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,39.92071915,-91.39421082,Sangli,11/1/2016 13:39,64434,2,Maharashtra,1/16/2016 13:39,Standard Class,866,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Shipping canceled,Consumer,34.07167816,-117.9440765,Hubli,12/19/2015 10:43,60411,5,Karnataka,12/25/2015 10:43,Standard Class,878,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Shipping canceled,Consumer,34.07167816,-117.9440765,Hubli,12/19/2015 10:43,60413,2,Karnataka,12/25/2015 10:43,Standard Class,878,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Shipping canceled,Consumer,34.07167816,-117.9440765,Hubli,12/19/2015 10:43,60412,3,Karnataka,12/25/2015 10:43,Standard Class,878,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,45.4770813,-12.27913284,Bihar Sharif,7/1/2016 19:16,63804,1,Bihar,9/1/2016 19:16,Second Class,891,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,45.4770813,-12.27913284,Bihar Sharif,7/1/2016 19:16,63803,2,Bihar,9/1/2016 19:16,Second Class,891,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,29.64259911,-95.71518707,Durgapur,8/3/2016 8:09,74107,3,Bengala Occidental,10/3/2016 8:09,First Class,954,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,29.64259911,-95.71518707,Durgapur,8/3/2016 8:09,74109,1,Bengala Occidental,10/3/2016 8:09,First Class,954,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,29.64259911,-95.71518707,Durgapur,8/3/2016 8:09,74108,4,Bengala Occidental,10/3/2016 8:09,First Class,954,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.22757721,-66.04562378,Aurangabad,12/31/2015 16:39,62602,1,Bihar,5/1/2016 16:39,Standard Class,970,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.22757721,-66.04562378,Aurangabad,12/31/2015 16:39,62604,2,Bihar,5/1/2016 16:39,Standard Class,970,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.22757721,-66.04562378,Aurangabad,12/31/2015 16:39,62603,3,Bihar,5/1/2016 16:39,Standard Class,970,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Shipping canceled,Consumer,18.22757721,-66.04453278,Gorakhpur,2/18/2016 17:48,70923,2,Uttar Pradesh,2/20/2016 17:48,First Class,972,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Shipping canceled,Consumer,18.22757721,-66.04453278,Gorakhpur,2/18/2016 17:48,70922,1,Uttar Pradesh,2/20/2016 17:48,First Class,972,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,18.29652023,-66.04867554,Mumbai,7/12/2015 22:38,58456,1,Maharashtra,10/12/2015 22:38,Second Class,1011,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,18.29652023,-66.04867554,Mumbai,7/12/2015 22:38,58455,1,Maharashtra,10/12/2015 22:38,Second Class,1011,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,18.29652023,-66.04867554,Mumbai,7/12/2015 22:38,58454,5,Maharashtra,10/12/2015 22:38,Second Class,1011,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,41.23968124,-111.9685974,Ulhasnagar,2/29/2016 14:07,72779,4,Maharashtra,3/3/2016 14:07,Standard Class,1022,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,41.23968124,-111.9685974,Ulhasnagar,2/29/2016 14:07,72783,1,Maharashtra,3/3/2016 14:07,Standard Class,1022,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,41.23968124,-111.9685974,Ulhasnagar,2/29/2016 14:07,72780,1,Maharashtra,3/3/2016 14:07,Standard Class,1022,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,41.23968124,-111.9685974,Ulhasnagar,2/29/2016 14:07,72782,1,Maharashtra,3/3/2016 14:07,Standard Class,1022,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,41.23968124,-111.9685974,Ulhasnagar,2/29/2016 14:07,72781,1,Maharashtra,3/3/2016 14:07,Standard Class,1022,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,30.23604584,-97.79588318,Ranchi,10/31/2015 0:06,51877,4,Jharkhand,4/11/2015 0:06,Standard Class,1028,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,30.23604584,-97.79588318,Ranchi,10/31/2015 0:06,51880,4,Jharkhand,4/11/2015 0:06,Standard Class,1028,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,30.23604584,-97.79588318,Ranchi,10/31/2015 0:06,51878,1,Jharkhand,4/11/2015 0:06,Standard Class,1028,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,30.23604584,-97.79588318,Ranchi,10/31/2015 0:06,51876,1,Jharkhand,4/11/2015 0:06,Standard Class,1028,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,30.23604584,-97.79588318,Ranchi,10/31/2015 0:06,51879,3,Jharkhand,4/11/2015 0:06,Standard Class,1028,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,33.83778,-118.0332108,Kalyan,12/20/2015 4:14,60528,1,Maharashtra,12/22/2015 4:14,First Class,1031,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,33.83778,-118.0332108,Kalyan,12/20/2015 4:14,60529,4,Maharashtra,12/22/2015 4:14,First Class,1031,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Corporate,33.83778,-118.0332108,Kalyan,12/20/2015 4:14,60530,1,Maharashtra,12/22/2015 4:14,First Class,1031,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+1,0,Late delivery,Consumer,18.29652023,-66.04867554,Guwahati,1/13/2016 23:49,64814,1,Assam,1/14/2016 11:49,Same Day,1044,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Consumer,18.29652023,-66.04867554,Guwahati,1/13/2016 23:49,64813,1,Assam,1/14/2016 11:49,Same Day,1044,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+0,0,Shipping on time,Consumer,29.45903015,-98.52767181,Hyderabad,1/27/2016 8:23,67162,1,Telangana,1/27/2016 20:23,Same Day,1046,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,29.45903015,-98.52767181,Hyderabad,1/27/2016 8:23,67163,1,Telangana,1/27/2016 20:23,Same Day,1046,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Home Office,18.27771187,-66.37052918,Jodhpur,2/16/2016 10:06,70479,1,Guyarat,2/22/2016 10:06,Standard Class,1058,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,18.27771187,-66.37052918,Jodhpur,2/16/2016 10:06,70481,5,Guyarat,2/22/2016 10:06,Standard Class,1058,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,18.27771187,-66.37052918,Jodhpur,2/16/2016 10:06,70480,1,Guyarat,2/22/2016 10:06,Standard Class,1058,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,32.77589798,-96.68588257,Bilaspur,11/27/2015 21:15,56726,1,Uttar Pradesh,11/29/2015 21:15,First Class,1063,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,32.77589798,-96.68588257,Bilaspur,11/27/2015 21:15,56723,1,Uttar Pradesh,11/29/2015 21:15,First Class,1063,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,32.77589798,-96.68588257,Bilaspur,11/27/2015 21:15,56724,5,Uttar Pradesh,11/29/2015 21:15,First Class,1063,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,32.77589798,-96.68588257,Bilaspur,11/27/2015 21:15,56725,4,Uttar Pradesh,11/29/2015 21:15,First Class,1063,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,33.97929382,-118.289093,Dewas,1/30/2016 18:01,67757,1,Madhya Pradesh,3/2/2016 18:01,Second Class,1078,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,33.97929382,-118.289093,Dewas,1/30/2016 18:01,67756,1,Madhya Pradesh,3/2/2016 18:01,Second Class,1078,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,33.97929382,-118.289093,Dewas,1/30/2016 18:01,67755,1,Madhya Pradesh,3/2/2016 18:01,Second Class,1078,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,33.97929382,-118.289093,Dewas,1/30/2016 18:01,67754,3,Madhya Pradesh,3/2/2016 18:01,Second Class,1078,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,38.48671341,-121.459343,Bangalore,12/22/2015 17:32,60956,4,Karnataka,12/28/2015 17:32,Second Class,1081,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,38.48671341,-121.459343,Bangalore,12/22/2015 17:32,60955,1,Karnataka,12/28/2015 17:32,Second Class,1081,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,38.48671341,-121.459343,Bangalore,12/22/2015 17:32,60954,1,Karnataka,12/28/2015 17:32,Second Class,1081,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,40.79833603,-74.19944,Surat,12/14/2015 23:30,59658,5,Guyarat,12/19/2015 23:30,Standard Class,1094,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,40.79833603,-74.19944,Surat,12/14/2015 23:30,59657,1,Guyarat,12/19/2015 23:30,Standard Class,1094,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,40.79833603,-74.19944,Surat,12/14/2015 23:30,59659,3,Guyarat,12/19/2015 23:30,Standard Class,1094,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,40.79833603,-74.19944,Surat,12/14/2015 23:30,59656,3,Guyarat,12/19/2015 23:30,Standard Class,1094,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.24341583,-66.37055206,Aurangabad,12/31/2015 16:18,62599,1,Bihar,4/1/2016 16:18,Standard Class,1128,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.24341583,-66.37055206,Aurangabad,12/31/2015 16:18,62600,2,Bihar,4/1/2016 16:18,Standard Class,1128,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.24341583,-66.37055206,Aurangabad,12/31/2015 16:18,62601,3,Bihar,4/1/2016 16:18,Standard Class,1128,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,18.29127121,-66.37050629,Pimpri,4/12/2015 14:04,57903,1,Maharashtra,7/12/2015 14:04,Standard Class,1139,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.29127121,-66.37050629,Pimpri,4/12/2015 14:04,57902,1,Maharashtra,7/12/2015 14:04,Standard Class,1139,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.29127121,-66.37050629,Pimpri,4/12/2015 14:04,57905,2,Maharashtra,7/12/2015 14:04,Standard Class,1139,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.29127121,-66.37050629,Pimpri,4/12/2015 14:04,57906,3,Maharashtra,7/12/2015 14:04,Standard Class,1139,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,40.0230751,-82.8732605,Bareilly,11/18/2015 15:50,55119,1,Uttar Pradesh,11/20/2015 15:50,Standard Class,1145,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,40.0230751,-82.8732605,Bareilly,11/18/2015 15:50,55118,3,Uttar Pradesh,11/20/2015 15:50,Standard Class,1145,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24826241,-66.37055969,Kanpur,2/14/2016 5:12,70135,1,Uttar Pradesh,2/19/2016 5:12,Standard Class,1151,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.24826241,-66.37055969,Kanpur,2/14/2016 5:12,70137,1,Uttar Pradesh,2/19/2016 5:12,Standard Class,1151,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.24826241,-66.37055969,Kanpur,2/14/2016 5:12,70136,4,Uttar Pradesh,2/19/2016 5:12,Standard Class,1151,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.24826241,-66.37055969,Kanpur,2/14/2016 5:12,70138,4,Uttar Pradesh,2/19/2016 5:12,Standard Class,1151,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24826241,-66.37055969,Kanpur,2/14/2016 5:12,70139,1,Uttar Pradesh,2/19/2016 5:12,Standard Class,1151,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Home Office,33.81931305,-84.17552948,Mumbai,1/21/2016 21:42,66184,1,Maharashtra,1/24/2016 21:42,Second Class,1159,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Home Office,33.81931305,-84.17552948,Mumbai,1/21/2016 21:42,66188,1,Maharashtra,1/24/2016 21:42,Second Class,1159,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Home Office,33.81931305,-84.17552948,Mumbai,1/21/2016 21:42,66185,1,Maharashtra,1/24/2016 21:42,Second Class,1159,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Home Office,33.81931305,-84.17552948,Mumbai,1/21/2016 21:42,66187,2,Maharashtra,1/24/2016 21:42,Second Class,1159,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Home Office,33.81931305,-84.17552948,Mumbai,1/21/2016 21:42,66186,1,Maharashtra,1/24/2016 21:42,Second Class,1159,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,34.20909119,-118.5710068,Ludhiana,2/12/2015 7:03,57489,1,Punyab,4/12/2015 7:03,First Class,1162,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,34.20909119,-118.5710068,Ludhiana,2/12/2015 7:03,57487,1,Punyab,4/12/2015 7:03,First Class,1162,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,34.20909119,-118.5710068,Ludhiana,2/12/2015 7:03,57491,4,Punyab,4/12/2015 7:03,First Class,1162,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,34.20909119,-118.5710068,Ludhiana,2/12/2015 7:03,57490,5,Punyab,4/12/2015 7:03,First Class,1162,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,34.20909119,-118.5710068,Ludhiana,2/12/2015 7:03,57488,5,Punyab,4/12/2015 7:03,First Class,1162,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,18.22088432,-66.37056732,Sangli,2/16/2016 3:06,70436,1,Maharashtra,2/22/2016 3:06,Standard Class,1163,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,18.22088432,-66.37056732,Sangli,2/16/2016 3:06,70437,4,Maharashtra,2/22/2016 3:06,Standard Class,1163,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,18.22088432,-66.37056732,Sangli,2/16/2016 3:06,70435,5,Maharashtra,2/22/2016 3:06,Standard Class,1163,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,18.22088432,-66.37056732,Sangli,2/16/2016 3:06,70434,2,Maharashtra,2/22/2016 3:06,Standard Class,1163,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.9354763,-80.3160553,Tirunelveli,6/2/2016 4:10,68803,1,Tamil Nadu,10/2/2016 4:10,Standard Class,1178,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.9354763,-80.3160553,Tirunelveli,6/2/2016 4:10,68804,2,Tamil Nadu,10/2/2016 4:10,Standard Class,1178,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,25.9354763,-80.3160553,Tirunelveli,6/2/2016 4:10,68805,3,Tamil Nadu,10/2/2016 4:10,Standard Class,1178,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,25.9354763,-80.3160553,Tirunelveli,6/2/2016 4:10,68802,4,Tamil Nadu,10/2/2016 4:10,Standard Class,1178,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,18.21907234,-66.3705368,Jodhpur,10/11/2015 23:12,53767,1,Rajastan,11/15/2015 23:12,Second Class,1184,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,18.21907234,-66.3705368,Jodhpur,10/11/2015 23:12,53766,4,Rajastan,11/15/2015 23:12,Second Class,1184,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,18.21907234,-66.3705368,Ghaziabad,3/15/2016 4:27,75211,3,Uttar Pradesh,3/18/2016 4:27,Standard Class,1184,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,18.21907234,-66.3705368,Jodhpur,10/11/2015 23:12,53769,3,Rajastan,11/15/2015 23:12,Second Class,1184,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,18.21907234,-66.3705368,Jodhpur,10/11/2015 23:12,53768,2,Rajastan,11/15/2015 23:12,Second Class,1184,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,33.45067978,-111.9264069,Mumbai,1/12/2015 21:57,57436,1,Maharashtra,6/12/2015 21:57,Standard Class,1225,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,33.45067978,-111.9264069,Mumbai,1/12/2015 21:57,57438,1,Maharashtra,6/12/2015 21:57,Standard Class,1225,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,33.45067978,-111.9264069,Mumbai,1/12/2015 21:57,57437,1,Maharashtra,6/12/2015 21:57,Standard Class,1225,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Corporate,33.45067978,-111.9264069,Allahabad,1/17/2016 2:26,65364,1,Uttar Pradesh,1/21/2016 2:26,Second Class,1225,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,33.45067978,-111.9264069,Allahabad,1/17/2016 2:26,65365,1,Uttar Pradesh,1/21/2016 2:26,Second Class,1225,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,33.45067978,-111.9264069,Allahabad,1/17/2016 2:26,65363,3,Uttar Pradesh,1/21/2016 2:26,Second Class,1225,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Home Office,35.94494247,-79.00052643,Indore,12/31/2015 7:53,62537,1,Madhya Pradesh,5/1/2016 7:53,Second Class,1236,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Home Office,35.94494247,-79.00052643,Indore,12/31/2015 7:53,62538,4,Madhya Pradesh,5/1/2016 7:53,Second Class,1236,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Home Office,35.94494247,-79.00052643,Indore,12/31/2015 7:53,62539,1,Madhya Pradesh,5/1/2016 7:53,Second Class,1236,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Home Office,35.94494247,-79.00052643,Indore,12/31/2015 7:53,62536,4,Madhya Pradesh,5/1/2016 7:53,Second Class,1236,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Shipping canceled,Home Office,18.26007271,-66.37057495,Imphal,10/26/2015 4:50,50995,1,Manipur,10/31/2015 4:50,Standard Class,1266,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Shipping canceled,Home Office,18.26007271,-66.37057495,Imphal,10/26/2015 4:50,50997,4,Manipur,10/31/2015 4:50,Standard Class,1266,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Shipping canceled,Home Office,18.26007271,-66.37057495,Imphal,10/26/2015 4:50,50994,4,Manipur,10/31/2015 4:50,Standard Class,1266,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Shipping canceled,Home Office,18.26007271,-66.37057495,Imphal,10/26/2015 4:50,50998,5,Manipur,10/31/2015 4:50,Standard Class,1266,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Shipping canceled,Home Office,18.26007271,-66.37057495,Imphal,10/26/2015 4:50,50996,1,Manipur,10/31/2015 4:50,Standard Class,1266,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,33.75128937,-117.8674774,Amritsar,11/13/2015 20:55,54310,5,Punyab,11/17/2015 20:55,Standard Class,1269,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,33.75128937,-117.8674774,Amritsar,11/13/2015 20:55,54309,1,Punyab,11/17/2015 20:55,Standard Class,1269,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Home Office,33.75128937,-117.8674774,Amritsar,11/13/2015 20:55,54307,1,Punyab,11/17/2015 20:55,Standard Class,1269,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,33.75128937,-117.8674774,Amritsar,11/13/2015 20:55,54308,1,Punyab,11/17/2015 20:55,Standard Class,1269,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,42.52750397,-89.07718658,Pune,9/11/2015 16:01,53578,1,Maharashtra,11/11/2015 16:01,First Class,1277,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,42.52750397,-89.07718658,Pune,9/11/2015 16:01,53577,1,Maharashtra,11/11/2015 16:01,First Class,1277,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,42.52750397,-89.07718658,Pune,9/11/2015 16:01,53576,1,Maharashtra,11/11/2015 16:01,First Class,1277,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,42.52750397,-89.07718658,Pune,9/11/2015 16:01,53575,1,Maharashtra,11/11/2015 16:01,First Class,1277,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.91221619,-118.3525696,Kollam,10/11/2015 22:09,53760,4,Kerala,12/11/2015 22:09,Second Class,1283,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.91221619,-118.3525696,Kollam,10/11/2015 22:09,53761,1,Kerala,12/11/2015 22:09,Second Class,1283,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,33.81034088,-117.9689102,Jaipur,10/27/2015 16:13,51272,1,Rajastan,2/11/2015 16:13,Standard Class,1301,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,33.81034088,-117.9689102,Jaipur,10/27/2015 16:13,51268,1,Rajastan,2/11/2015 16:13,Standard Class,1301,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,33.81034088,-117.9689102,Jaipur,10/27/2015 16:13,51271,1,Rajastan,2/11/2015 16:13,Standard Class,1301,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,33.81034088,-117.9689102,Jaipur,10/27/2015 16:13,51269,1,Rajastan,2/11/2015 16:13,Standard Class,1301,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,33.81034088,-117.9689102,Jaipur,10/27/2015 16:13,51270,4,Rajastan,2/11/2015 16:13,Standard Class,1301,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Corporate,18.24757958,-66.37062073,Mumbai,12/30/2015 1:46,62308,1,Maharashtra,3/1/2016 1:46,Second Class,1346,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Corporate,18.24757958,-66.37062073,Mumbai,12/30/2015 1:46,62309,2,Maharashtra,3/1/2016 1:46,Second Class,1346,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Corporate,18.24757958,-66.37062073,Mumbai,12/30/2015 1:46,62310,3,Maharashtra,3/1/2016 1:46,Second Class,1346,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,37.79023361,-122.4237061,Vijayawada,12/12/2015 16:30,59243,1,Andhra Pradesh,12/15/2015 16:30,Standard Class,1361,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,37.79023361,-122.4237061,Vijayawada,12/12/2015 16:30,59245,1,Andhra Pradesh,12/15/2015 16:30,Standard Class,1361,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,37.79023361,-122.4237061,Vijayawada,12/12/2015 16:30,59242,1,Andhra Pradesh,12/15/2015 16:30,Standard Class,1361,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,37.79023361,-122.4237061,Vijayawada,12/12/2015 16:30,59244,3,Andhra Pradesh,12/15/2015 16:30,Standard Class,1361,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.29496765,-66.37050629,Gaya,1/29/2016 6:37,67490,5,Bihar,1/2/2016 6:37,Standard Class,1362,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.29496765,-66.37050629,Gaya,1/29/2016 6:37,67489,1,Bihar,1/2/2016 6:37,Standard Class,1362,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.29496765,-66.37050629,Gaya,1/29/2016 6:37,67491,5,Bihar,1/2/2016 6:37,Standard Class,1362,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.2939949,-66.37059784,Amravati,1/11/2015 9:02,52106,4,Maharashtra,4/11/2015 9:02,Standard Class,1371,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.2939949,-66.37059784,Amravati,1/11/2015 9:02,52107,1,Maharashtra,4/11/2015 9:02,Standard Class,1371,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,38.31266785,-120.2777634,Malegaon,2/26/2016 4:08,72198,1,Maharashtra,1/3/2016 4:08,Standard Class,1381,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,38.31266785,-120.2777634,Malegaon,2/26/2016 4:08,72197,1,Maharashtra,1/3/2016 4:08,Standard Class,1381,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.58987427,-112.1163712,Kanpur,10/30/2015 11:08,51776,5,Uttar Pradesh,1/11/2015 11:08,Second Class,1390,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.58987427,-112.1163712,Kanpur,10/30/2015 11:08,51777,1,Uttar Pradesh,1/11/2015 11:08,Second Class,1390,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,36.19946671,-115.1088638,Bhavnagar,10/12/2015 12:18,58862,2,Guyarat,12/14/2015 12:18,Standard Class,1394,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,36.19946671,-115.1088638,Bhavnagar,10/12/2015 12:18,58861,5,Guyarat,12/14/2015 12:18,Standard Class,1394,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,36.19946671,-115.1088638,Bhavnagar,10/12/2015 12:18,58860,1,Guyarat,12/14/2015 12:18,Standard Class,1394,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.28249359,-66.37057495,Gorakhpur,3/14/2016 22:09,75170,1,Haryana,3/19/2016 22:09,Standard Class,1396,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.28249359,-66.37057495,Gorakhpur,3/14/2016 22:09,75168,1,Haryana,3/19/2016 22:09,Standard Class,1396,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.28249359,-66.37057495,Gorakhpur,3/14/2016 22:09,75169,1,Haryana,3/19/2016 22:09,Standard Class,1396,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,33.41001129,-111.7717972,Ludhiana,12/2/2016 3:27,69824,2,Punyab,2/14/2016 3:27,First Class,1424,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,33.41001129,-111.7717972,Ludhiana,12/2/2016 3:27,69823,1,Punyab,2/14/2016 3:27,First Class,1424,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,39.92448425,-75.1757431,Coimbatore,11/1/2016 19:37,64480,1,Tamil Nadu,1/13/2016 19:37,Second Class,1430,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Home Office,39.92448425,-75.1757431,Coimbatore,11/1/2016 19:37,64479,1,Tamil Nadu,1/13/2016 19:37,Second Class,1430,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,39.92448425,-75.1757431,Coimbatore,11/1/2016 19:37,64478,1,Tamil Nadu,1/13/2016 19:37,Second Class,1430,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,39.92448425,-75.1757431,Coimbatore,11/1/2016 19:37,64477,1,Tamil Nadu,1/13/2016 19:37,Second Class,1430,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Home Office,39.92448425,-75.1757431,Coimbatore,11/1/2016 19:37,64481,3,Tamil Nadu,1/13/2016 19:37,Second Class,1430,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.23859215,-66.37052155,Bhopal,2/29/2016 0:06,72679,2,Madhya Pradesh,3/3/2016 0:06,Standard Class,1432,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.23859215,-66.37052155,Bhopal,2/29/2016 0:06,72681,1,Madhya Pradesh,3/3/2016 0:06,Standard Class,1432,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.23859215,-66.37052155,Bhopal,2/29/2016 0:06,72677,4,Madhya Pradesh,3/3/2016 0:06,Standard Class,1432,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.23859215,-66.37052155,Bhopal,2/29/2016 0:06,72678,4,Madhya Pradesh,3/3/2016 0:06,Standard Class,1432,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.23859215,-66.37052155,Bhopal,2/29/2016 0:06,72680,1,Madhya Pradesh,3/3/2016 0:06,Standard Class,1432,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,38.25131607,-122.0456543,Ajmer,3/12/2015 19:08,57767,2,Rajastan,5/12/2015 19:08,First Class,1433,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Home Office,38.25131607,-122.0456543,Mumbai,9/12/2015 14:14,58729,1,Maharashtra,12/15/2015 14:14,Standard Class,1433,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Home Office,38.25131607,-122.0456543,Mumbai,9/12/2015 14:14,58728,1,Maharashtra,12/15/2015 14:14,Standard Class,1433,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,38.25131607,-122.0456543,Mumbai,9/12/2015 14:14,58727,1,Maharashtra,12/15/2015 14:14,Standard Class,1433,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,38.25131607,-122.0456543,Mumbai,9/12/2015 14:14,58726,1,Maharashtra,12/15/2015 14:14,Standard Class,1433,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,38.25131607,-122.0456543,Mumbai,9/12/2015 14:14,58725,4,Maharashtra,12/15/2015 14:14,Standard Class,1433,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,38.25131607,-122.0456543,Ajmer,3/12/2015 19:08,57768,1,Rajastan,5/12/2015 19:08,First Class,1433,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,38.25131607,-122.0456543,Ajmer,3/12/2015 19:08,57770,2,Rajastan,5/12/2015 19:08,First Class,1433,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Home Office,38.25131607,-122.0456543,Ajmer,3/12/2015 19:08,57769,3,Rajastan,5/12/2015 19:08,First Class,1433,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,33.64860153,-117.9180069,Bangalore,12/21/2015 5:27,60695,1,Karnataka,12/24/2015 5:27,Standard Class,1471,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,33.64860153,-117.9180069,Bangalore,12/21/2015 5:27,60696,1,Karnataka,12/24/2015 5:27,Standard Class,1471,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Shipping canceled,Consumer,18.29214859,-66.3706131,Lucknow,6/12/2015 0:24,58158,1,Uttar Pradesh,12/12/2015 0:24,Standard Class,1473,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Shipping canceled,Consumer,18.29214859,-66.3706131,Lucknow,6/12/2015 0:24,58157,1,Uttar Pradesh,12/12/2015 0:24,Standard Class,1473,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Shipping canceled,Consumer,18.29214859,-66.3706131,Lucknow,6/12/2015 0:24,58156,1,Uttar Pradesh,12/12/2015 0:24,Standard Class,1473,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Shipping canceled,Consumer,18.29214859,-66.3706131,Lucknow,6/12/2015 0:24,58155,1,Uttar Pradesh,12/12/2015 0:24,Standard Class,1473,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Shipping canceled,Consumer,18.29214859,-66.3706131,Lucknow,6/12/2015 0:24,58159,2,Uttar Pradesh,12/12/2015 0:24,Standard Class,1473,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,41.90987396,-87.73109436,Hyderabad,10/30/2015 5:10,51734,5,Telangana,4/11/2015 5:10,Standard Class,1480,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,41.90987396,-87.73109436,Hyderabad,10/30/2015 5:10,51733,5,Telangana,4/11/2015 5:10,Standard Class,1480,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,41.90987396,-87.73109436,Hyderabad,10/30/2015 5:10,51735,1,Telangana,4/11/2015 5:10,Standard Class,1480,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,41.90987396,-87.73109436,Hyderabad,10/30/2015 5:10,51732,1,Telangana,4/11/2015 5:10,Standard Class,1480,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,40.79858398,-74.4823761,Raipur,4/3/2016 19:22,73499,1,Chhattisgarh,6/3/2016 19:22,Second Class,1485,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Home Office,40.79858398,-74.4823761,Raipur,4/3/2016 19:22,73500,1,Chhattisgarh,6/3/2016 19:22,Second Class,1485,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,40.73124313,-73.98880768,Durg,11/13/2015 15:19,54265,1,Chhattisgarh,11/16/2015 15:19,Standard Class,1489,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,40.73124313,-73.98880768,Durg,11/13/2015 15:19,54266,2,Chhattisgarh,11/16/2015 15:19,Standard Class,1489,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,40.73124313,-73.98880768,Durg,11/13/2015 15:19,54264,2,Chhattisgarh,11/16/2015 15:19,Standard Class,1489,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,34.01502609,-118.10672,Jamshedpur,2/23/2016 22:53,71841,2,Jharkhand,2/25/2016 22:53,Standard Class,1492,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,34.01502609,-118.10672,Jamshedpur,2/23/2016 22:53,71842,2,Jharkhand,2/25/2016 22:53,Standard Class,1492,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,39.28712082,-76.66523743,Gorakhpur,2/13/2016 15:32,70060,1,Haryana,2/19/2016 15:32,Standard Class,1518,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,39.28712082,-76.66523743,Gorakhpur,2/13/2016 15:32,70061,2,Haryana,2/19/2016 15:32,Standard Class,1518,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,37.82341003,-122.2414322,Delhi,12/29/2015 5:26,62163,4,Delhi,4/1/2016 5:26,Standard Class,1553,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,37.82341003,-122.2414322,Delhi,12/29/2015 5:26,62162,1,Delhi,4/1/2016 5:26,Standard Class,1553,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,37.82341003,-122.2414322,Delhi,12/29/2015 5:26,62161,1,Delhi,4/1/2016 5:26,Standard Class,1553,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.25905418,-66.3705368,Bhatinda,1/11/2015 21:17,52190,1,Punyab,4/11/2015 21:17,Standard Class,1558,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.25905418,-66.3705368,Bhatinda,1/11/2015 21:17,52191,1,Punyab,4/11/2015 21:17,Standard Class,1558,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.25905418,-66.3705368,Bhatinda,1/11/2015 21:17,52188,1,Punyab,4/11/2015 21:17,Standard Class,1558,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.25905418,-66.3705368,Bhatinda,1/11/2015 21:17,52189,4,Punyab,4/11/2015 21:17,Standard Class,1558,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.26159096,-66.37058258,Bangalore,12/1/2016 10:20,64559,1,Karnataka,1/16/2016 10:20,Second Class,1560,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,18.26159096,-66.37058258,Bangalore,12/1/2016 10:20,64558,3,Karnataka,1/16/2016 10:20,Second Class,1560,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,18.29444695,-66.37054443,Avadi,1/11/2015 2:22,52063,1,Tamil Nadu,5/11/2015 2:22,Standard Class,1577,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,18.29444695,-66.37054443,Avadi,1/11/2015 2:22,52062,3,Tamil Nadu,5/11/2015 2:22,Standard Class,1577,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,38.55750656,-90.2736969,Thane,12/22/2015 8:05,60897,1,Maharashtra,12/26/2015 8:05,Standard Class,1581,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,38.55750656,-90.2736969,Thane,12/22/2015 8:05,60896,1,Maharashtra,12/26/2015 8:05,Standard Class,1581,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.21188355,-66.37051392,Nagercoil,2/25/2016 15:10,72104,1,Tamil Nadu,2/27/2016 15:10,Standard Class,1591,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.21188355,-66.37051392,Nagercoil,2/25/2016 15:10,72103,1,Tamil Nadu,2/27/2016 15:10,Standard Class,1591,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.21188355,-66.37051392,Nagercoil,2/25/2016 15:10,72106,1,Tamil Nadu,2/27/2016 15:10,Standard Class,1591,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.21188355,-66.37051392,Nagercoil,2/25/2016 15:10,72105,4,Tamil Nadu,2/27/2016 15:10,Standard Class,1591,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,26.0984993,-80.27095032,Vadodara,12/15/2015 14:13,59776,1,Guyarat,12/17/2015 14:13,Standard Class,1608,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,26.0984993,-80.27095032,Vadodara,12/15/2015 14:13,59777,1,Guyarat,12/17/2015 14:13,Standard Class,1608,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,33.97483063,-118.1829376,Thanjavur,2/18/2016 12:54,70890,3,Tamil Nadu,2/24/2016 12:54,Standard Class,1640,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,33.97483063,-118.1829376,Thanjavur,2/18/2016 12:54,70889,5,Tamil Nadu,2/24/2016 12:54,Standard Class,1640,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,33.97483063,-118.1829376,Thanjavur,2/18/2016 12:54,70888,1,Tamil Nadu,2/24/2016 12:54,Standard Class,1640,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,33.97483063,-118.1829376,Thanjavur,2/18/2016 12:54,70887,4,Tamil Nadu,2/24/2016 12:54,Standard Class,1640,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,34.0015831,-118.4321518,Meerut,3/15/2016 14:37,75285,4,Uttar Pradesh,3/17/2016 14:37,Standard Class,1658,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,34.0015831,-118.4321518,Meerut,3/15/2016 14:37,75286,4,Uttar Pradesh,3/17/2016 14:37,Standard Class,1658,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,18.23469162,-66.37052155,Patiala,1/12/2015 14:14,57381,1,Punyab,3/12/2015 14:14,First Class,1679,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.23469162,-66.37052155,Patiala,1/12/2015 14:14,57380,1,Punyab,3/12/2015 14:14,First Class,1679,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.23469162,-66.37052155,Patiala,1/12/2015 14:14,57379,5,Punyab,3/12/2015 14:14,First Class,1679,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,40.74287415,-73.89524078,Hyderabad,2/17/2016 19:23,70739,2,Telangana,2/23/2016 19:23,Second Class,1682,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,40.74287415,-73.89524078,Hyderabad,2/17/2016 19:23,70740,4,Telangana,2/23/2016 19:23,Second Class,1682,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,32.72062683,-97.06020355,Panihati,1/14/2016 7:31,64875,1,Bengala Occidental,1/17/2016 7:31,Standard Class,1708,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,32.72062683,-97.06020355,Panihati,1/14/2016 7:31,64874,1,Bengala Occidental,1/17/2016 7:31,Standard Class,1708,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,32.72062683,-97.06020355,Panihati,1/14/2016 7:31,64878,2,Bengala Occidental,1/17/2016 7:31,Standard Class,1708,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,32.72062683,-97.06020355,Panihati,1/14/2016 7:31,64877,4,Bengala Occidental,1/17/2016 7:31,Standard Class,1708,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,32.72062683,-97.06020355,Panihati,1/14/2016 7:31,64876,3,Bengala Occidental,1/17/2016 7:31,Standard Class,1708,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,42.22454834,-88.33185577,Mangalore,1/12/2015 8:59,57345,1,Karnataka,4/12/2015 8:59,Standard Class,1714,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,42.22454834,-88.33185577,Mangalore,1/12/2015 8:59,57344,1,Karnataka,4/12/2015 8:59,Standard Class,1714,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,18.20661545,-66.37055969,Pune,12/29/2015 9:39,62195,1,Maharashtra,1/1/2016 9:39,Standard Class,1715,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,18.20661545,-66.37055969,Pune,12/29/2015 9:39,62196,4,Maharashtra,1/1/2016 9:39,Standard Class,1715,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,18.20661545,-66.37055969,Pune,12/29/2015 9:39,62194,4,Maharashtra,1/1/2016 9:39,Standard Class,1715,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,18.20661545,-66.37055969,Pune,12/29/2015 9:39,62197,3,Maharashtra,1/1/2016 9:39,Standard Class,1715,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,34.26494217,-119.218605,Kanpur,4/3/2016 1:30,73367,1,Uttar Pradesh,10/3/2016 1:30,Second Class,1721,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,34.26494217,-119.218605,Kanpur,4/3/2016 1:30,73365,1,Uttar Pradesh,10/3/2016 1:30,Second Class,1721,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,34.26494217,-119.218605,Kanpur,4/3/2016 1:30,73364,4,Uttar Pradesh,10/3/2016 1:30,Second Class,1721,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,34.26494217,-119.218605,Kanpur,4/3/2016 1:30,73366,1,Uttar Pradesh,10/3/2016 1:30,Second Class,1721,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,34.00062561,-117.9077301,Nagpur,3/16/2016 20:24,75473,1,Maharashtra,3/18/2016 20:24,Standard Class,1745,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,34.00062561,-117.9077301,Nagpur,3/16/2016 20:24,75472,1,Maharashtra,3/18/2016 20:24,Standard Class,1745,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.25581932,-66.37049866,Bhopal,2/28/2016 23:45,72676,1,Madhya Pradesh,1/3/2016 23:45,Standard Class,1762,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.25581932,-66.37049866,Bhopal,2/28/2016 23:45,72675,1,Madhya Pradesh,1/3/2016 23:45,Standard Class,1762,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.25581932,-66.37049866,Bhopal,2/28/2016 23:45,72674,2,Madhya Pradesh,1/3/2016 23:45,Standard Class,1762,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,18.28739548,-66.37059021,Korba,12/13/2015 4:04,59330,1,Chhattisgarh,12/19/2015 4:04,Second Class,1772,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,18.28739548,-66.37059021,Korba,12/13/2015 4:04,59331,1,Chhattisgarh,12/19/2015 4:04,Second Class,1772,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,18.28739548,-66.37059021,Korba,12/13/2015 4:04,59329,1,Chhattisgarh,12/19/2015 4:04,Second Class,1772,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.20961571,-66.37059021,Kalyan,2/26/2016 7:17,72223,3,Maharashtra,2/29/2016 7:17,Standard Class,1780,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.20961571,-66.37059021,Kalyan,2/26/2016 7:17,72221,5,Maharashtra,2/29/2016 7:17,Standard Class,1780,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.20961571,-66.37059021,Kalyan,2/26/2016 7:17,72220,1,Maharashtra,2/29/2016 7:17,Standard Class,1780,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.20961571,-66.37059021,Kalyan,2/26/2016 7:17,72224,2,Maharashtra,2/29/2016 7:17,Standard Class,1780,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.20961571,-66.37059021,Kalyan,2/26/2016 7:17,72222,4,Maharashtra,2/29/2016 7:17,Standard Class,1780,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,32.8013916,-97.3302536,Naihati,3/16/2016 20:03,75468,5,Bengala Occidental,3/22/2016 20:03,Standard Class,1782,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,32.8013916,-97.3302536,Naihati,3/16/2016 20:03,75471,5,Bengala Occidental,3/22/2016 20:03,Standard Class,1782,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,32.8013916,-97.3302536,Naihati,3/16/2016 20:03,75470,1,Bengala Occidental,3/22/2016 20:03,Standard Class,1782,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,32.8013916,-97.3302536,Naihati,3/16/2016 20:03,75469,1,Bengala Occidental,3/22/2016 20:03,Standard Class,1782,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,42.06867981,-87.76311493,Ganganagar,12/12/2015 11:36,59216,1,Rajastan,12/16/2015 11:36,Second Class,1793,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,42.06867981,-87.76311493,Ganganagar,12/12/2015 11:36,59215,1,Rajastan,12/16/2015 11:36,Second Class,1793,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,42.06867981,-87.76311493,Ganganagar,12/12/2015 11:36,59217,2,Rajastan,12/16/2015 11:36,Second Class,1793,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,42.42877197,-82.98252869,Mangalore,7/11/2015 6:55,53165,1,Karnataka,10/11/2015 6:55,Standard Class,1811,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,42.42877197,-82.98252869,Mangalore,7/11/2015 6:55,53168,1,Karnataka,10/11/2015 6:55,Standard Class,1811,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,42.42877197,-82.98252869,Mangalore,7/11/2015 6:55,53166,1,Karnataka,10/11/2015 6:55,Standard Class,1811,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,42.42877197,-82.98252869,Mangalore,7/11/2015 6:55,53167,1,Karnataka,10/11/2015 6:55,Standard Class,1811,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,42.42877197,-82.98252869,Mangalore,7/11/2015 6:55,53164,5,Karnataka,10/11/2015 6:55,Standard Class,1811,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,18.29010963,-66.37059021,Pune,9/11/2015 14:37,53564,1,Maharashtra,11/11/2015 14:37,Standard Class,1832,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.29010963,-66.37059021,Pune,9/11/2015 14:37,53561,1,Maharashtra,11/11/2015 14:37,Standard Class,1832,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.29010963,-66.37059021,Pune,9/11/2015 14:37,53562,1,Maharashtra,11/11/2015 14:37,Standard Class,1832,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.29010963,-66.37059021,Pune,9/11/2015 14:37,53563,4,Maharashtra,11/11/2015 14:37,Standard Class,1832,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,36.68344116,-121.6128922,Malegaon,11/1/2016 7:00,64382,1,Maharashtra,1/17/2016 7:00,Standard Class,1849,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,36.68344116,-121.6128922,Malegaon,11/1/2016 7:00,64384,1,Maharashtra,1/17/2016 7:00,Standard Class,1849,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,36.68344116,-121.6128922,Malegaon,11/1/2016 7:00,64383,3,Maharashtra,1/17/2016 7:00,Standard Class,1849,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.23921585,-66.37059784,Bareilly,11/18/2015 15:29,55116,1,Uttar Pradesh,11/24/2015 15:29,Standard Class,1871,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.23921585,-66.37059784,Bareilly,11/18/2015 15:29,55115,1,Uttar Pradesh,11/24/2015 15:29,Standard Class,1871,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.23921585,-66.37059784,Bareilly,11/18/2015 15:29,55117,1,Uttar Pradesh,11/24/2015 15:29,Standard Class,1871,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Consumer,18.25496101,-66.37059784,Patna,11/17/2015 2:42,54855,1,Bihar,11/23/2015 2:42,Second Class,1873,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Consumer,18.25496101,-66.37059784,Patna,11/17/2015 2:42,54856,4,Bihar,11/23/2015 2:42,Second Class,1873,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Consumer,18.25496101,-66.37059784,Patna,11/17/2015 2:42,54859,5,Bihar,11/23/2015 2:42,Second Class,1873,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,2,Late delivery,Consumer,18.25496101,-66.37059784,Patna,11/17/2015 2:42,54857,3,Bihar,11/23/2015 2:42,Second Class,1873,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.21932411,-66.37062073,Visakhapatnam,2/14/2016 19:34,70232,1,Andhra Pradesh,2/16/2016 19:34,First Class,1877,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Home Office,40.84625626,-73.84725189,Vijayawada,12/12/2015 16:51,59250,1,Andhra Pradesh,12/16/2015 16:51,Second Class,1882,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Home Office,40.84625626,-73.84725189,Vijayawada,12/12/2015 16:51,59248,1,Andhra Pradesh,12/16/2015 16:51,Second Class,1882,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Home Office,40.84625626,-73.84725189,Vijayawada,12/12/2015 16:51,59249,2,Andhra Pradesh,12/16/2015 16:51,Second Class,1882,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Home Office,40.84625626,-73.84725189,Vijayawada,12/12/2015 16:51,59246,2,Andhra Pradesh,12/16/2015 16:51,Second Class,1882,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Home Office,40.84625626,-73.84725189,Vijayawada,12/12/2015 16:51,59247,3,Andhra Pradesh,12/16/2015 16:51,Second Class,1882,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,41.97568893,-87.69367981,Satna,12/12/2015 3:32,59156,1,Madhya Pradesh,12/18/2015 3:32,Standard Class,1901,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,41.97568893,-87.69367981,Satna,12/12/2015 3:32,59157,1,Madhya Pradesh,12/18/2015 3:32,Standard Class,1901,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,41.97568893,-87.69367981,Satna,12/12/2015 3:32,59158,2,Madhya Pradesh,12/18/2015 3:32,Standard Class,1901,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,41.97568893,-87.69367981,Satna,12/12/2015 3:32,59159,3,Madhya Pradesh,12/18/2015 3:32,Standard Class,1901,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.22962761,-66.3705368,Aurangabad,12/31/2015 15:57,62596,1,Bihar,3/1/2016 15:57,Standard Class,1920,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.22962761,-66.3705368,Aurangabad,12/31/2015 15:57,62595,1,Bihar,3/1/2016 15:57,Standard Class,1920,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.22962761,-66.3705368,Aurangabad,12/31/2015 15:57,62594,1,Bihar,3/1/2016 15:57,Standard Class,1920,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,18.22962761,-66.3705368,Aurangabad,12/31/2015 15:57,62597,3,Bihar,3/1/2016 15:57,Standard Class,1920,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,18.22962761,-66.3705368,Aurangabad,12/31/2015 15:57,62598,3,Bihar,3/1/2016 15:57,Standard Class,1920,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.98764038,-118.2705536,Etawah,11/30/2015 5:18,57137,2,Uttar Pradesh,2/12/2015 5:18,First Class,1926,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.98764038,-118.2705536,Etawah,11/30/2015 5:18,57136,2,Uttar Pradesh,2/12/2015 5:18,First Class,1926,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,33.98764038,-118.2705536,Etawah,11/30/2015 5:18,57140,2,Uttar Pradesh,2/12/2015 5:18,First Class,1926,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,33.98764038,-118.2705536,Etawah,11/30/2015 5:18,57139,3,Uttar Pradesh,2/12/2015 5:18,First Class,1926,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,33.98764038,-118.2705536,Etawah,11/30/2015 5:18,57138,5,Uttar Pradesh,2/12/2015 5:18,First Class,1926,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,31.77133369,-106.4199219,Bhilai,3/11/2015 7:16,52446,1,Chhattisgarh,8/11/2015 7:16,Second Class,1937,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,31.77133369,-106.4199219,Bhilai,3/11/2015 7:16,52444,1,Chhattisgarh,8/11/2015 7:16,Second Class,1937,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,31.77133369,-106.4199219,Bhilai,3/11/2015 7:16,52447,2,Chhattisgarh,8/11/2015 7:16,Second Class,1937,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,31.77133369,-106.4199219,Bhilai,3/11/2015 7:16,52443,4,Chhattisgarh,8/11/2015 7:16,Second Class,1937,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,31.77133369,-106.4199219,Bhilai,3/11/2015 7:16,52445,4,Chhattisgarh,8/11/2015 7:16,Second Class,1937,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.26749229,-66.37056732,Ranchi,1/17/2016 10:30,65413,3,Jharkhand,1/19/2016 10:30,Standard Class,1938,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.26749229,-66.37056732,Ranchi,1/17/2016 10:30,65414,1,Jharkhand,1/19/2016 10:30,Standard Class,1938,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Corporate,35.1097641,-106.5007248,Allahabad,2/19/2016 0:49,70969,5,Uttar Pradesh,2/24/2016 0:49,Standard Class,1940,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,35.1097641,-106.5007248,Allahabad,2/19/2016 0:49,70968,5,Uttar Pradesh,2/24/2016 0:49,Standard Class,1940,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,21.343153,-157.906601,Bhopal,2/24/2016 23:45,72009,5,Madhya Pradesh,2/27/2016 23:45,Standard Class,1942,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,21.343153,-157.906601,Bhopal,2/24/2016 23:45,72008,4,Madhya Pradesh,2/27/2016 23:45,Standard Class,1942,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,21.343153,-157.906601,Bhopal,2/24/2016 23:45,72007,4,Madhya Pradesh,2/27/2016 23:45,Standard Class,1942,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,47.67869949,-122.3217621,Bhiwandi,2/18/2016 15:21,70908,1,Maharashtra,2/21/2016 15:21,Second Class,1971,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,47.67869949,-122.3217621,Bhiwandi,2/18/2016 15:21,70907,4,Maharashtra,2/21/2016 15:21,Second Class,1971,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,47.67869949,-122.3217621,Bhiwandi,2/18/2016 15:21,70909,5,Maharashtra,2/21/2016 15:21,Second Class,1971,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.25937843,-66.37058258,Rajkot,8/12/2015 9:51,58524,1,Guyarat,12/13/2015 9:51,Standard Class,1979,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.25937843,-66.37058258,Rajkot,8/12/2015 9:51,58522,3,Guyarat,12/13/2015 9:51,Standard Class,1979,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.25937843,-66.37058258,Rajkot,8/12/2015 9:51,58523,4,Guyarat,12/13/2015 9:51,Standard Class,1979,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,40.00903702,-76.39564514,Durg,11/13/2015 15:40,54270,5,Chhattisgarh,11/17/2015 15:40,Standard Class,2003,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,40.00903702,-76.39564514,Durg,11/13/2015 15:40,54269,5,Chhattisgarh,11/17/2015 15:40,Standard Class,2003,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,40.00903702,-76.39564514,Durg,11/13/2015 15:40,54267,1,Chhattisgarh,11/17/2015 15:40,Standard Class,2003,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,40.00903702,-76.39564514,Durg,11/13/2015 15:40,54268,3,Chhattisgarh,11/17/2015 15:40,Standard Class,2003,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,36.03966141,-95.80953217,Ujjain,12/20/2015 19:18,60640,1,Madhya Pradesh,12/24/2015 19:18,Standard Class,2006,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,36.03966141,-95.80953217,Ujjain,12/20/2015 19:18,60643,1,Madhya Pradesh,12/24/2015 19:18,Standard Class,2006,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,36.03966141,-95.80953217,Ujjain,12/20/2015 19:18,60642,1,Madhya Pradesh,12/24/2015 19:18,Standard Class,2006,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,36.03966141,-95.80953217,Ujjain,12/20/2015 19:18,60641,3,Madhya Pradesh,12/24/2015 19:18,Standard Class,2006,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,18.2246151,-66.37056732,Korba,12/13/2015 4:25,59336,1,Chhattisgarh,12/15/2015 4:25,Second Class,2008,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,18.2246151,-66.37056732,Korba,12/13/2015 4:25,59333,1,Chhattisgarh,12/15/2015 4:25,Second Class,2008,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.2246151,-66.37056732,Korba,12/13/2015 4:25,59332,5,Chhattisgarh,12/15/2015 4:25,Second Class,2008,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Consumer,18.2246151,-66.37056732,Korba,12/13/2015 4:25,59335,2,Chhattisgarh,12/15/2015 4:25,Second Class,2008,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,18.2246151,-66.37056732,Korba,12/13/2015 4:25,59334,1,Chhattisgarh,12/15/2015 4:25,Second Class,2008,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,33.64875412,-117.6374283,Bokaro,9/12/2015 4:46,58654,1,Jharkhand,12/13/2015 4:46,Second Class,2027,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,33.64875412,-117.6374283,Bokaro,9/12/2015 4:46,58657,2,Jharkhand,12/13/2015 4:46,Second Class,2027,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Corporate,33.64875412,-117.6374283,Bokaro,9/12/2015 4:46,58656,2,Jharkhand,12/13/2015 4:46,Second Class,2027,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Corporate,33.64875412,-117.6374283,Bokaro,9/12/2015 4:46,58653,4,Jharkhand,12/13/2015 4:46,Second Class,2027,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,33.64875412,-117.6374283,Bokaro,9/12/2015 4:46,58655,1,Jharkhand,12/13/2015 4:46,Second Class,2027,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.26673508,-66.37054443,Bangalore,11/26/2015 5:19,56438,4,Karnataka,1/12/2015 5:19,Standard Class,2028,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.26673508,-66.37054443,Bangalore,11/26/2015 5:19,56439,5,Karnataka,1/12/2015 5:19,Standard Class,2028,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,18.21932983,-66.37060547,Jodhpur,8/3/2016 0:47,74068,1,Rajastan,11/3/2016 0:47,Standard Class,2030,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.21932983,-66.37060547,Jodhpur,8/3/2016 0:47,74067,4,Rajastan,11/3/2016 0:47,Standard Class,2030,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Consumer,36.08757019,-79.88663483,Raipur,2/27/2016 8:10,72397,1,Uttarakhand,2/29/2016 8:10,First Class,2048,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Shipping canceled,Consumer,36.08757019,-79.88663483,Ratlam,5/11/2015 10:46,52827,1,Madhya Pradesh,7/11/2015 10:46,Standard Class,2048,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Shipping canceled,Consumer,36.08757019,-79.88663483,Ratlam,5/11/2015 10:46,52828,1,Madhya Pradesh,7/11/2015 10:46,Standard Class,2048,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,40.31143951,-75.13288879,Bangalore,11/3/2016 22:41,74719,1,Karnataka,3/17/2016 22:41,Standard Class,2050,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,40.31143951,-75.13288879,Bangalore,11/3/2016 22:41,74720,1,Karnataka,3/17/2016 22:41,Standard Class,2050,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,40.31143951,-75.13288879,Bangalore,11/3/2016 22:41,74717,3,Karnataka,3/17/2016 22:41,Standard Class,2050,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,40.31143951,-75.13288879,Bangalore,11/3/2016 22:41,74718,1,Karnataka,3/17/2016 22:41,Standard Class,2050,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+1,0,Late delivery,Consumer,18.21237755,-66.37058258,Bihar Sharif,7/1/2016 18:55,63802,1,Bihar,8/1/2016 6:55,Same Day,2055,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Consumer,18.21237755,-66.37058258,Bihar Sharif,7/1/2016 18:55,63801,1,Bihar,8/1/2016 6:55,Same Day,2055,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Consumer,18.23467445,-66.37059784,Hyderabad,10/28/2015 11:29,51430,1,Telangana,3/11/2015 11:29,Second Class,2058,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+6,2,Late delivery,Consumer,18.23467445,-66.37059784,Hyderabad,10/28/2015 11:29,51431,1,Telangana,3/11/2015 11:29,Second Class,2058,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,2,Late delivery,Consumer,18.23467445,-66.37059784,Hyderabad,10/28/2015 11:29,51432,2,Telangana,3/11/2015 11:29,Second Class,2058,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,18.38596916,-66.0940094,Bangalore,4/3/2016 13:03,73451,1,Karnataka,8/3/2016 13:03,Standard Class,2063,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,18.38596916,-66.0940094,Bangalore,4/3/2016 13:03,73450,4,Karnataka,8/3/2016 13:03,Standard Class,2063,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,18.38596916,-66.0940094,Bangalore,4/3/2016 13:03,73452,1,Karnataka,8/3/2016 13:03,Standard Class,2063,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+1,0,Late delivery,Corporate,33.7309494,-117.8127518,Pimpri,4/12/2015 14:46,57912,2,Maharashtra,5/12/2015 2:46,Same Day,2102,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,33.7309494,-117.8127518,Pimpri,4/12/2015 14:46,57908,1,Maharashtra,5/12/2015 2:46,Same Day,2102,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,33.7309494,-117.8127518,Pimpri,4/12/2015 14:46,57909,1,Maharashtra,5/12/2015 2:46,Same Day,2102,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,33.7309494,-117.8127518,Pimpri,4/12/2015 14:46,57911,3,Maharashtra,5/12/2015 2:46,Same Day,2102,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Corporate,33.7309494,-117.8127518,Pimpri,4/12/2015 14:46,57910,1,Maharashtra,5/12/2015 2:46,Same Day,2102,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.28859901,-66.37059021,Puducherry,5/2/2016 17:18,68725,1,Puducherry,8/2/2016 17:18,Standard Class,2111,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.28859901,-66.37059021,Puducherry,5/2/2016 17:18,68723,3,Puducherry,8/2/2016 17:18,Standard Class,2111,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.28859901,-66.37059021,Puducherry,5/2/2016 17:18,68724,4,Puducherry,8/2/2016 17:18,Standard Class,2111,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.28859901,-66.37059021,Puducherry,5/2/2016 17:18,68722,5,Puducherry,8/2/2016 17:18,Standard Class,2111,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,18.28859901,-66.37059021,Puducherry,5/2/2016 17:18,68721,1,Puducherry,8/2/2016 17:18,Standard Class,2111,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,18.28152275,-66.37049866,Lucknow,1/30/2016 16:36,67745,1,Uttar Pradesh,4/2/2016 16:36,Second Class,2134,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,18.28152275,-66.37049866,Lucknow,1/30/2016 16:36,67746,1,Uttar Pradesh,4/2/2016 16:36,Second Class,2134,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,18.28152275,-66.37049866,Lucknow,1/30/2016 16:36,67744,1,Uttar Pradesh,4/2/2016 16:36,Second Class,2134,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,18.28152275,-66.37049866,Lucknow,1/30/2016 16:36,67742,1,Uttar Pradesh,4/2/2016 16:36,Second Class,2134,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,18.28152275,-66.37049866,Lucknow,1/30/2016 16:36,67743,1,Uttar Pradesh,4/2/2016 16:36,Second Class,2134,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.24798775,-66.37058258,Pune,12/1/2016 23:17,64644,1,Maharashtra,1/18/2016 23:17,Standard Class,2136,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.24798775,-66.37058258,Pune,12/1/2016 23:17,64643,1,Maharashtra,1/18/2016 23:17,Standard Class,2136,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.24798775,-66.37058258,Pune,12/1/2016 23:17,64645,4,Maharashtra,1/18/2016 23:17,Standard Class,2136,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.25430679,-66.37052155,Guwahati,12/19/2015 22:16,60489,2,Assam,12/23/2015 22:16,Standard Class,2183,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,18.25430679,-66.37052155,Guwahati,12/19/2015 22:16,60488,4,Assam,12/23/2015 22:16,Standard Class,2183,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Shipping canceled,Corporate,18.27436638,-66.37059784,Mumbai,2/3/2016 11:18,73084,1,Maharashtra,4/3/2016 11:18,Standard Class,2220,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Shipping canceled,Corporate,18.27436638,-66.37059784,Mumbai,2/3/2016 11:18,73085,5,Maharashtra,4/3/2016 11:18,Standard Class,2220,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Shipping canceled,Corporate,18.27436638,-66.37059784,Mumbai,2/3/2016 11:18,73086,5,Maharashtra,4/3/2016 11:18,Standard Class,2220,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Corporate,18.21783066,-66.37054443,Sangli,1/20/2016 0:30,65857,1,Maharashtra,1/24/2016 0:30,Second Class,2222,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Corporate,18.21783066,-66.37054443,Sangli,1/20/2016 0:30,65856,4,Maharashtra,1/24/2016 0:30,Second Class,2222,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,18.2599659,-66.37059021,Pimpri,12/3/2016 22:09,74874,1,Maharashtra,3/15/2016 22:09,Second Class,2224,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Corporate,18.2599659,-66.37059021,Pimpri,12/3/2016 22:09,74875,4,Maharashtra,3/15/2016 22:09,Second Class,2224,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.2539711,-66.37059784,Nellore,12/26/2015 19:59,61724,1,Andhra Pradesh,12/28/2015 19:59,Standard Class,2229,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.2539711,-66.37059784,Nellore,12/26/2015 19:59,61725,4,Andhra Pradesh,12/28/2015 19:59,Standard Class,2229,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,18.2539711,-66.37059784,Nellore,12/26/2015 19:59,61726,4,Andhra Pradesh,12/28/2015 19:59,Standard Class,2229,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.2539711,-66.37059784,Nellore,12/26/2015 19:59,61723,1,Andhra Pradesh,12/28/2015 19:59,Standard Class,2229,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Home Office,18.23014069,-66.37056732,Ajmer,2/12/2015 4:57,57471,1,Rajastan,7/12/2015 4:57,Standard Class,2248,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Home Office,18.23014069,-66.37056732,Ajmer,2/12/2015 4:57,57472,4,Rajastan,7/12/2015 4:57,Standard Class,2248,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.20765877,-66.37055206,Mumbai,1/23/2016 11:53,66462,1,Maharashtra,1/25/2016 11:53,Second Class,2265,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.20765877,-66.37055206,Mumbai,1/23/2016 11:53,66463,1,Maharashtra,1/25/2016 11:53,Second Class,2265,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Consumer,18.20765877,-66.37055206,Mumbai,1/23/2016 11:53,66460,3,Maharashtra,1/25/2016 11:53,Second Class,2265,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.20765877,-66.37055206,Mumbai,1/23/2016 11:53,66459,1,Maharashtra,1/25/2016 11:53,Second Class,2265,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,18.20765877,-66.37055206,Mumbai,1/23/2016 11:53,66461,1,Maharashtra,1/25/2016 11:53,Second Class,2265,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.66019821,-112.1931229,Jaipur,5/3/2016 19:53,73667,1,Rajastan,7/3/2016 19:53,Second Class,2267,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.66019821,-112.1931229,Jaipur,5/3/2016 19:53,73666,5,Rajastan,7/3/2016 19:53,Second Class,2267,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,2,Shipping on time,Consumer,33.66019821,-112.1931229,Jaipur,5/3/2016 19:53,73668,1,Rajastan,7/3/2016 19:53,Second Class,2267,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,33.9172287,-84.47109222,Moradabad,1/23/2016 3:50,66398,2,Uttar Pradesh,1/25/2016 3:50,First Class,2268,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,33.9172287,-84.47109222,Moradabad,1/23/2016 3:50,66401,1,Uttar Pradesh,1/25/2016 3:50,First Class,2268,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,33.9172287,-84.47109222,Moradabad,1/23/2016 3:50,66400,1,Uttar Pradesh,1/25/2016 3:50,First Class,2268,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,33.9172287,-84.47109222,Moradabad,1/23/2016 3:50,66399,1,Uttar Pradesh,1/25/2016 3:50,First Class,2268,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,33.9172287,-84.47109222,Moradabad,1/23/2016 3:50,66397,5,Uttar Pradesh,1/25/2016 3:50,First Class,2268,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Home Office,45.37810135,-122.5930786,Nagpur,2/20/2016 10:06,71225,1,Maharashtra,2/25/2016 10:06,Standard Class,2280,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Home Office,45.37810135,-122.5930786,Nagpur,2/20/2016 10:06,71226,5,Maharashtra,2/25/2016 10:06,Standard Class,2280,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,18.24620819,-66.37062073,Mathura,4/1/2016 11:44,63257,1,Uttar Pradesh,9/1/2016 11:44,Second Class,2300,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,18.24620819,-66.37062073,Mathura,4/1/2016 11:44,63258,3,Uttar Pradesh,9/1/2016 11:44,Second Class,2300,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.27268601,-66.3706131,Bhiwandi,6/1/2016 1:14,63493,1,Maharashtra,8/1/2016 1:14,Standard Class,2309,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.27268601,-66.3706131,Bhiwandi,6/1/2016 1:14,63492,1,Maharashtra,8/1/2016 1:14,Standard Class,2309,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,18.27268601,-66.3706131,Bhiwandi,6/1/2016 1:14,63494,1,Maharashtra,8/1/2016 1:14,Standard Class,2309,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.23685837,-66.37052918,Mangalore,7/2/2016 13:27,69035,2,Karnataka,9/2/2016 13:27,First Class,2352,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.23685837,-66.37052918,Mangalore,7/2/2016 13:27,69036,5,Karnataka,9/2/2016 13:27,First Class,2352,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,29.73701477,-94.96875763,Kalyan,1/17/2016 20:39,65486,1,Maharashtra,1/23/2016 20:39,Second Class,2371,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,29.73701477,-94.96875763,Kalyan,1/17/2016 20:39,65487,4,Maharashtra,1/23/2016 20:39,Second Class,2371,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,2,Late delivery,Corporate,29.73701477,-94.96875763,Kalyan,1/17/2016 20:39,65485,5,Maharashtra,1/23/2016 20:39,Second Class,2371,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,29.73701477,-94.96875763,Kalyan,1/17/2016 20:39,65484,1,Maharashtra,1/23/2016 20:39,Second Class,2371,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,2,Late delivery,Corporate,29.73701477,-94.96875763,Kalyan,1/17/2016 20:39,65483,1,Maharashtra,1/23/2016 20:39,Second Class,2371,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,32.98229599,-80.03636932,Nagpur,1/19/2016 1:02,65687,5,Maharashtra,1/21/2016 1:02,Standard Class,2373,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,32.98229599,-80.03636932,Nagpur,1/19/2016 1:02,65685,1,Maharashtra,1/21/2016 1:02,Standard Class,2373,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,32.98229599,-80.03636932,Nagpur,1/19/2016 1:02,65684,1,Maharashtra,1/21/2016 1:02,Standard Class,2373,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,32.98229599,-80.03636932,Nagpur,1/19/2016 1:02,65686,4,Maharashtra,1/21/2016 1:02,Standard Class,2373,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,32.98229599,-80.03636932,Nagpur,1/19/2016 1:02,65683,3,Maharashtra,1/21/2016 1:02,Standard Class,2373,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,41.1966362,-73.08577728,Guwahati,12/19/2015 21:55,60486,1,Assam,12/22/2015 21:55,Standard Class,2376,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,41.1966362,-73.08577728,Guwahati,12/19/2015 21:55,60485,5,Assam,12/22/2015 21:55,Standard Class,2376,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,41.1966362,-73.08577728,Guwahati,12/19/2015 21:55,60487,1,Assam,12/22/2015 21:55,Standard Class,2376,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,2,Late delivery,Corporate,18.20499611,-66.37055969,Kollam,10/11/2015 21:48,53759,1,Kerala,11/16/2015 21:48,Second Class,2384,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,18.20499611,-66.37055969,Kollam,10/11/2015 21:48,53757,1,Kerala,11/16/2015 21:48,Second Class,2384,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,18.20499611,-66.37055969,Kollam,10/11/2015 21:48,53758,4,Kerala,11/16/2015 21:48,Second Class,2384,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,2,Late delivery,Corporate,18.20499611,-66.37055969,Kollam,10/11/2015 21:48,53756,5,Kerala,11/16/2015 21:48,Second Class,2384,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.20726204,-66.3705368,Sangli,12/26/2015 14:44,61682,1,Maharashtra,12/28/2015 14:44,Standard Class,2417,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.20726204,-66.3705368,Sangli,12/26/2015 14:44,61681,1,Maharashtra,12/28/2015 14:44,Standard Class,2417,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.20726204,-66.3705368,Sangli,12/26/2015 14:44,61680,2,Maharashtra,12/28/2015 14:44,Standard Class,2417,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.20726204,-66.3705368,Sangli,12/26/2015 14:44,61683,5,Maharashtra,12/28/2015 14:44,Standard Class,2417,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Consumer,30.19924736,-81.72353363,Jodhpur,1/15/2016 23:49,65149,1,Guyarat,1/18/2016 23:49,Second Class,2424,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,2,Late delivery,Consumer,30.19924736,-81.72353363,Jodhpur,1/15/2016 23:49,65148,3,Guyarat,1/18/2016 23:49,Second Class,2424,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Consumer,30.19924736,-81.72353363,Jodhpur,1/15/2016 23:49,65147,1,Guyarat,1/18/2016 23:49,Second Class,2424,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,35.06275177,-79.00574493,Mangalore,12/21/2015 8:36,60712,3,Karnataka,12/23/2015 8:36,Second Class,2434,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,35.06275177,-79.00574493,Mangalore,12/21/2015 8:36,60713,4,Karnataka,12/23/2015 8:36,Second Class,2434,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Delhi,2/11/2015 16:33,52321,1,Delhi,5/11/2015 16:33,Standard Class,2435,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Delhi,2/11/2015 16:33,52319,1,Delhi,5/11/2015 16:33,Standard Class,2435,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Satna,12/19/2015 20:10,60470,1,Madhya Pradesh,12/22/2015 20:10,Standard Class,2435,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Delhi,2/11/2015 16:33,52320,4,Delhi,5/11/2015 16:33,Standard Class,2435,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Satna,12/19/2015 20:10,60469,1,Madhya Pradesh,12/22/2015 20:10,Standard Class,2435,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Satna,12/19/2015 20:10,60467,1,Madhya Pradesh,12/22/2015 20:10,Standard Class,2435,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Satna,12/19/2015 20:10,60468,1,Madhya Pradesh,12/22/2015 20:10,Standard Class,2435,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.24291611,-66.3706131,Satna,12/19/2015 20:10,60466,3,Madhya Pradesh,12/22/2015 20:10,Standard Class,2435,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,40.69240189,-73.9262085,Allahabad,12/11/2015 15:51,54078,1,Uttar Pradesh,11/18/2015 15:51,Standard Class,2438,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,40.69240189,-73.9262085,Allahabad,12/11/2015 15:51,54079,1,Uttar Pradesh,11/18/2015 15:51,Standard Class,2438,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,40.69240189,-73.9262085,Allahabad,12/11/2015 15:51,54077,1,Uttar Pradesh,11/18/2015 15:51,Standard Class,2438,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Corporate,40.69240189,-73.9262085,Allahabad,12/11/2015 15:51,54076,4,Uttar Pradesh,11/18/2015 15:51,Standard Class,2438,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,41.49992752,-90.51541138,Malegaon,11/1/2016 7:42,64386,5,Maharashtra,1/14/2016 7:42,Standard Class,2444,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,41.49992752,-90.51541138,Malegaon,11/1/2016 7:42,64387,1,Maharashtra,1/14/2016 7:42,Standard Class,2444,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,41.49992752,-90.51541138,Malegaon,11/1/2016 7:42,64385,2,Maharashtra,1/14/2016 7:42,Standard Class,2444,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Home Office,26.21472931,-80.23004913,Srinagar,10/3/2016 7:27,74449,1,Jammu y Cachemira,3/14/2016 7:27,Standard Class,2446,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,26.21472931,-80.23004913,Srinagar,10/3/2016 7:27,74447,1,Jammu y Cachemira,3/14/2016 7:27,Standard Class,2446,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,26.21472931,-80.23004913,Srinagar,10/3/2016 7:27,74448,3,Jammu y Cachemira,3/14/2016 7:27,Standard Class,2446,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,26.21472931,-80.23004913,Srinagar,10/3/2016 7:27,74446,4,Jammu y Cachemira,3/14/2016 7:27,Standard Class,2446,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,26.21472931,-80.23004913,Srinagar,10/3/2016 7:27,74445,5,Jammu y Cachemira,3/14/2016 7:27,Standard Class,2446,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,18.20718384,-66.37054443,Ludhiana,8/11/2015 4:38,53311,2,Punyab,11/13/2015 4:38,Second Class,2453,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,18.20718384,-66.37054443,Ludhiana,8/11/2015 4:38,53314,2,Punyab,11/13/2015 4:38,Second Class,2453,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,18.20718384,-66.37054443,Ludhiana,8/11/2015 4:38,53312,3,Punyab,11/13/2015 4:38,Second Class,2453,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,18.20718384,-66.37054443,Ludhiana,8/11/2015 4:38,53313,4,Punyab,11/13/2015 4:38,Second Class,2453,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,35.73103714,-78.85575104,Mumbai,1/24/2016 11:43,66651,1,Maharashtra,1/29/2016 11:43,Second Class,2484,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Corporate,35.73103714,-78.85575104,Mumbai,1/24/2016 11:43,66648,1,Maharashtra,1/29/2016 11:43,Second Class,2484,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,35.73103714,-78.85575104,Mumbai,1/24/2016 11:43,66652,1,Maharashtra,1/29/2016 11:43,Second Class,2484,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Corporate,35.73103714,-78.85575104,Mumbai,1/24/2016 11:43,66650,2,Maharashtra,1/29/2016 11:43,Second Class,2484,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Corporate,35.73103714,-78.85575104,Mumbai,1/24/2016 11:43,66649,4,Maharashtra,1/29/2016 11:43,Second Class,2484,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,18.24227333,-66.37055969,Parbhani,12/23/2015 5:06,61043,2,Maharashtra,12/27/2015 5:06,Standard Class,2510,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,18.24227333,-66.37055969,Parbhani,12/23/2015 5:06,61044,4,Maharashtra,12/27/2015 5:06,Standard Class,2510,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,18.24227333,-66.37055969,Parbhani,12/23/2015 5:06,61042,5,Maharashtra,12/27/2015 5:06,Standard Class,2510,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,18.24227333,-66.37055969,Parbhani,12/23/2015 5:06,61041,2,Maharashtra,12/27/2015 5:06,Standard Class,2510,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+0,0,Shipping on time,Consumer,18.27880096,-66.37055206,Lucknow,2/25/2016 3:37,72032,4,Uttar Pradesh,2/25/2016 15:37,Same Day,2531,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,18.27880096,-66.37055206,Lucknow,2/25/2016 3:37,72031,3,Uttar Pradesh,2/25/2016 15:37,Same Day,2531,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,40.20738983,-74.79347992,Hyderabad,9/2/2016 23:15,69464,1,Telangana,2/13/2016 23:15,Standard Class,2534,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,40.20738983,-74.79347992,Hyderabad,9/2/2016 23:15,69463,1,Telangana,2/13/2016 23:15,Standard Class,2534,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,40.20738983,-74.79347992,Hyderabad,9/2/2016 23:15,69462,1,Telangana,2/13/2016 23:15,Standard Class,2534,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Home Office,32.97157669,-96.72790527,Mumbai,2/29/2016 20:04,72822,1,Maharashtra,5/3/2016 20:04,Standard Class,2545,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Home Office,32.97157669,-96.72790527,Mumbai,2/29/2016 20:04,72825,4,Maharashtra,5/3/2016 20:04,Standard Class,2545,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Home Office,32.97157669,-96.72790527,Mumbai,2/29/2016 20:04,72823,1,Maharashtra,5/3/2016 20:04,Standard Class,2545,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Home Office,32.97157669,-96.72790527,Mumbai,2/29/2016 20:04,72821,1,Maharashtra,5/3/2016 20:04,Standard Class,2545,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Home Office,32.97157669,-96.72790527,Mumbai,2/29/2016 20:04,72824,2,Maharashtra,5/3/2016 20:04,Standard Class,2545,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,33.67670822,-117.9219055,Delhi,12/26/2015 8:25,61640,1,Delhi,12/30/2015 8:25,Standard Class,2555,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,33.67670822,-117.9219055,Delhi,12/26/2015 8:25,61639,2,Delhi,12/30/2015 8:25,Standard Class,2555,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,40.74726105,-74.04908752,Bokaro,12/2/2016 1:42,69811,1,Jharkhand,2/15/2016 1:42,Standard Class,2561,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Corporate,40.74726105,-74.04908752,Bokaro,12/2/2016 1:42,69812,1,Jharkhand,2/15/2016 1:42,Standard Class,2561,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,40.74726105,-74.04908752,Bokaro,12/2/2016 1:42,69810,2,Jharkhand,2/15/2016 1:42,Standard Class,2561,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,40.74726105,-74.04908752,Bokaro,12/2/2016 1:42,69813,1,Jharkhand,2/15/2016 1:42,Standard Class,2561,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,18.20941925,-66.37062836,Jaipur,1/15/2016 13:39,65083,4,Rajastan,1/19/2016 13:39,Standard Class,2567,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,18.20941925,-66.37062836,Jaipur,1/15/2016 13:39,65082,4,Rajastan,1/19/2016 13:39,Standard Class,2567,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,18.20941925,-66.37062836,Jaipur,1/15/2016 13:39,65084,1,Rajastan,1/19/2016 13:39,Standard Class,2567,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.20941925,-66.37062836,Jaipur,1/15/2016 13:39,65081,3,Rajastan,1/19/2016 13:39,Standard Class,2567,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.20941925,-66.37062836,Jaipur,1/15/2016 13:39,65080,3,Rajastan,1/19/2016 13:39,Standard Class,2567,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22618675,-66.3706131,Visakhapatnam,9/1/2016 11:54,64103,1,Andhra Pradesh,11/1/2016 11:54,First Class,2569,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22618675,-66.3706131,Visakhapatnam,9/1/2016 11:54,64104,1,Andhra Pradesh,11/1/2016 11:54,First Class,2569,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22618675,-66.3706131,Visakhapatnam,9/1/2016 11:54,64101,1,Andhra Pradesh,11/1/2016 11:54,First Class,2569,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22618675,-66.3706131,Visakhapatnam,9/1/2016 11:54,64105,2,Andhra Pradesh,11/1/2016 11:54,First Class,2569,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.22618675,-66.3706131,Visakhapatnam,9/1/2016 11:54,64102,5,Andhra Pradesh,11/1/2016 11:54,First Class,2569,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,18.20490074,-66.37049866,Saharanpur,2/23/2016 20:26,71817,1,Uttar Pradesh,2/28/2016 20:26,Second Class,2572,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,18.20490074,-66.37049866,Saharanpur,2/23/2016 20:26,71818,4,Uttar Pradesh,2/28/2016 20:26,Second Class,2572,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Shipping canceled,Consumer,18.29692459,-66.37059784,Nagercoil,1/15/2016 19:15,65120,1,Tamil Nadu,1/20/2016 19:15,Standard Class,2590,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Shipping canceled,Consumer,18.29692459,-66.37059784,Nagercoil,1/15/2016 19:15,65121,1,Tamil Nadu,1/20/2016 19:15,Standard Class,2590,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Shipping canceled,Consumer,18.29692459,-66.37059784,Nagercoil,1/15/2016 19:15,65118,1,Tamil Nadu,1/20/2016 19:15,Standard Class,2590,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Shipping canceled,Consumer,18.29692459,-66.37059784,Nagercoil,1/15/2016 19:15,65119,3,Tamil Nadu,1/20/2016 19:15,Standard Class,2590,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Shipping canceled,Consumer,18.29692459,-66.37059784,Nagercoil,1/15/2016 19:15,65117,3,Tamil Nadu,1/20/2016 19:15,Standard Class,2590,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.27102661,-66.37056732,Salem,3/11/2015 16:44,52501,1,Tamil Nadu,5/11/2015 16:44,Standard Class,2607,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Consumer,18.27102661,-66.37056732,Salem,3/11/2015 16:44,52503,1,Tamil Nadu,5/11/2015 16:44,Standard Class,2607,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.27102661,-66.37056732,Salem,3/11/2015 16:44,52502,3,Tamil Nadu,5/11/2015 16:44,Standard Class,2607,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.27102661,-66.37056732,Salem,3/11/2015 16:44,52499,3,Tamil Nadu,5/11/2015 16:44,Standard Class,2607,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,18.27102661,-66.37056732,Salem,3/11/2015 16:44,52500,4,Tamil Nadu,5/11/2015 16:44,Standard Class,2607,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.28211212,-66.37058258,Kanpur,2/14/2016 6:36,70148,1,Uttar Pradesh,2/18/2016 6:36,Standard Class,2612,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,18.28211212,-66.37058258,Kanpur,2/14/2016 6:36,70149,4,Uttar Pradesh,2/18/2016 6:36,Standard Class,2612,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,18.28211212,-66.37058258,Kanpur,2/14/2016 6:36,70147,3,Uttar Pradesh,2/18/2016 6:36,Standard Class,2612,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Corporate,18.28211212,-66.37058258,Kanpur,2/14/2016 6:36,70146,2,Uttar Pradesh,2/18/2016 6:36,Standard Class,2612,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.26599312,-66.37052918,Agra,12/26/2015 21:02,61733,1,Uttar Pradesh,12/31/2015 21:02,Standard Class,2620,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.26599312,-66.37052918,Agra,12/26/2015 21:02,61735,2,Uttar Pradesh,12/31/2015 21:02,Standard Class,2620,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.26599312,-66.37052918,Agra,12/26/2015 21:02,61732,4,Uttar Pradesh,12/31/2015 21:02,Standard Class,2620,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.26599312,-66.37052918,Agra,12/26/2015 21:02,61731,5,Uttar Pradesh,12/31/2015 21:02,Standard Class,2620,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.26599312,-66.37052918,Agra,12/26/2015 21:02,61734,5,Uttar Pradesh,12/31/2015 21:02,Standard Class,2620,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.29917717,-66.37059021,Mysore,11/28/2015 14:46,56860,1,Karnataka,2/12/2015 14:46,Standard Class,2627,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,18.29917717,-66.37059021,Mysore,11/28/2015 14:46,56859,1,Karnataka,2/12/2015 14:46,Standard Class,2627,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.20425797,-66.37051392,Kota,12/20/2015 5:59,60545,1,Chhattisgarh,12/22/2015 5:59,First Class,2629,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.20425797,-66.37051392,Kota,12/20/2015 5:59,60546,2,Chhattisgarh,12/22/2015 5:59,First Class,2629,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.20425797,-66.37051392,Kota,12/20/2015 5:59,60547,3,Chhattisgarh,12/22/2015 5:59,First Class,2629,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Home Office,18.27518654,-66.37055969,Brahmapur,11/27/2015 21:57,56732,1,Odisha,3/12/2015 21:57,Standard Class,2645,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Home Office,18.27518654,-66.37055969,Brahmapur,11/27/2015 21:57,56731,1,Odisha,3/12/2015 21:57,Standard Class,2645,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.20522308,-66.37059784,Bangalore,12/22/2015 16:50,60950,1,Karnataka,12/26/2015 16:50,Second Class,2670,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Consumer,18.20522308,-66.37059784,Bangalore,12/22/2015 16:50,60949,2,Karnataka,12/26/2015 16:50,Second Class,2670,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.20522308,-66.37059784,Bangalore,12/22/2015 16:50,60951,5,Karnataka,12/26/2015 16:50,Second Class,2670,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,40.11061859,-74.94393921,Bangalore,11/3/2016 23:02,74721,1,Karnataka,3/13/2016 23:02,Standard Class,2676,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Shipping canceled,Corporate,40.11061859,-74.94393921,Agra,8/12/2015 15:48,58552,1,Uttar Pradesh,10/12/2015 15:48,Standard Class,2676,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Shipping canceled,Corporate,40.11061859,-74.94393921,Agra,8/12/2015 15:48,58553,2,Uttar Pradesh,10/12/2015 15:48,Standard Class,2676,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,2,Shipping canceled,Corporate,18.2091713,-66.37055206,Agra,12/26/2015 20:41,61730,1,Uttar Pradesh,12/30/2015 20:41,Second Class,2703,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,2,Shipping canceled,Corporate,18.2091713,-66.37055206,Agra,12/26/2015 20:41,61728,1,Uttar Pradesh,12/30/2015 20:41,Second Class,2703,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,2,Shipping canceled,Corporate,18.2091713,-66.37055206,Agra,12/26/2015 20:41,61729,1,Uttar Pradesh,12/30/2015 20:41,Second Class,2703,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,37.44713593,-121.9091797,Kamarhati,10/27/2015 5:42,51174,4,Bengala Occidental,2/11/2015 5:42,Standard Class,2716,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,37.44713593,-121.9091797,Kamarhati,10/27/2015 5:42,51175,5,Bengala Occidental,2/11/2015 5:42,Standard Class,2716,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,37.44713593,-121.9091797,Kamarhati,10/27/2015 5:42,51176,5,Bengala Occidental,2/11/2015 5:42,Standard Class,2716,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.27383804,-66.37050629,Bokaro,12/2/2016 2:24,69819,1,Jharkhand,2/17/2016 2:24,Standard Class,2727,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,18.27383804,-66.37050629,Bokaro,12/2/2016 2:24,69821,1,Jharkhand,2/17/2016 2:24,Standard Class,2727,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,4,Late delivery,Consumer,18.27383804,-66.37050629,Bokaro,12/2/2016 2:24,69820,1,Jharkhand,2/17/2016 2:24,Standard Class,2727,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.27510262,-66.37055206,Karnal,3/11/2015 1:19,52407,1,Haryana,5/11/2015 1:19,First Class,2735,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.27510262,-66.37055206,Karnal,3/11/2015 1:19,52408,1,Haryana,5/11/2015 1:19,First Class,2735,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Home Office,42.32353973,-83.17635346,Parbhani,12/23/2015 5:27,61047,1,Maharashtra,12/28/2015 5:27,Second Class,2746,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Home Office,42.32353973,-83.17635346,Parbhani,12/23/2015 5:27,61046,1,Maharashtra,12/28/2015 5:27,Second Class,2746,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Home Office,42.32353973,-83.17635346,Parbhani,12/23/2015 5:27,61045,3,Maharashtra,12/28/2015 5:27,Second Class,2746,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Home Office,18.28672028,-66.37050629,Durgapur,1/17/2016 9:27,65405,3,Bengala Occidental,1/21/2016 9:27,Standard Class,2753,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Home Office,18.28672028,-66.37050629,Durgapur,1/17/2016 9:27,65404,4,Bengala Occidental,1/21/2016 9:27,Standard Class,2753,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,41.58304977,-88.05521393,Korba,12/2/2016 20:58,69932,1,Chhattisgarh,2/15/2016 20:58,Standard Class,2774,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.26836968,-66.37056732,Jalna,2/21/2016 18:41,71449,3,Maharashtra,2/24/2016 18:41,Standard Class,2775,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.26836968,-66.37056732,Jalna,2/21/2016 18:41,71451,4,Maharashtra,2/24/2016 18:41,Standard Class,2775,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.26836968,-66.37056732,Jalna,2/21/2016 18:41,71450,4,Maharashtra,2/24/2016 18:41,Standard Class,2775,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.26836968,-66.37056732,Jalna,2/21/2016 18:41,71448,5,Maharashtra,2/24/2016 18:41,Standard Class,2775,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,30.49506187,-84.24580383,Warangal,10/27/2015 2:54,51150,1,Telangana,10/30/2015 2:54,Standard Class,2780,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,30.49506187,-84.24580383,Warangal,10/27/2015 2:54,51152,4,Telangana,10/30/2015 2:54,Standard Class,2780,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,30.49506187,-84.24580383,Warangal,10/27/2015 2:54,51151,1,Telangana,10/30/2015 2:54,Standard Class,2780,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,41.89480591,-87.7651825,Visakhapatnam,2/14/2016 19:13,70230,3,Andhra Pradesh,2/16/2016 19:13,First Class,2786,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,41.89480591,-87.7651825,Visakhapatnam,2/14/2016 19:13,70231,4,Andhra Pradesh,2/16/2016 19:13,First Class,2786,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,33.64781952,-112.0518799,Patna,1/22/2016 13:07,66284,3,Bihar,1/24/2016 13:07,Standard Class,2798,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,33.64781952,-112.0518799,Patna,1/22/2016 13:07,66287,1,Bihar,1/24/2016 13:07,Standard Class,2798,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,33.64781952,-112.0518799,Patna,1/22/2016 13:07,66286,1,Bihar,1/24/2016 13:07,Standard Class,2798,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,33.64781952,-112.0518799,Patna,1/22/2016 13:07,66285,1,Bihar,1/24/2016 13:07,Standard Class,2798,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,39.68188095,-75.64421082,Mumbai,5/11/2015 4:07,52786,1,Maharashtra,8/11/2015 4:07,Standard Class,2809,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,39.68188095,-75.64421082,Mumbai,5/11/2015 4:07,52785,1,Maharashtra,8/11/2015 4:07,Standard Class,2809,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Home Office,39.68188095,-75.64421082,Mumbai,5/11/2015 4:07,52782,1,Maharashtra,8/11/2015 4:07,Standard Class,2809,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Home Office,39.68188095,-75.64421082,Mumbai,5/11/2015 4:07,52783,4,Maharashtra,8/11/2015 4:07,Standard Class,2809,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Home Office,39.68188095,-75.64421082,Mumbai,5/11/2015 4:07,52784,5,Maharashtra,8/11/2015 4:07,Standard Class,2809,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,18.20746803,-66.37057495,Thiruvananthapuram,2/1/2016 12:06,62915,1,Kerala,6/1/2016 12:06,Standard Class,2835,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.20746803,-66.37057495,Thiruvananthapuram,2/1/2016 12:06,62917,1,Kerala,6/1/2016 12:06,Standard Class,2835,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.20746803,-66.37057495,Thiruvananthapuram,2/1/2016 12:06,62916,1,Kerala,6/1/2016 12:06,Standard Class,2835,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,39.65368652,-104.8682022,Chennai,1/18/2016 7:31,65555,1,Tamil Nadu,1/20/2016 7:31,Standard Class,2845,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,39.65368652,-104.8682022,Chennai,1/18/2016 7:31,65553,3,Tamil Nadu,1/20/2016 7:31,Standard Class,2845,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,39.65368652,-104.8682022,Chennai,1/18/2016 7:31,65554,4,Tamil Nadu,1/20/2016 7:31,Standard Class,2845,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,18.29046249,-66.3706131,Guntur,5/1/2016 7:43,63393,5,Andhra Pradesh,7/1/2016 7:43,Standard Class,2848,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.29046249,-66.3706131,Guntur,5/1/2016 7:43,63391,1,Andhra Pradesh,7/1/2016 7:43,Standard Class,2848,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,18.29046249,-66.3706131,Guntur,5/1/2016 7:43,63390,1,Andhra Pradesh,7/1/2016 7:43,Standard Class,2848,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Home Office,18.29046249,-66.3706131,Guntur,5/1/2016 7:43,63394,1,Andhra Pradesh,7/1/2016 7:43,Standard Class,2848,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.29046249,-66.3706131,Guntur,5/1/2016 7:43,63392,4,Andhra Pradesh,7/1/2016 7:43,Standard Class,2848,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,18.23596954,-66.37060547,Bangalore,11/14/2015 7:47,54392,1,Karnataka,11/19/2015 7:47,Standard Class,2854,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Corporate,18.23596954,-66.37060547,Bangalore,11/14/2015 7:47,54393,4,Karnataka,11/19/2015 7:47,Standard Class,2854,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Home Office,39.95728302,-74.19393158,Raipur,2/19/2016 9:13,71039,1,Uttarakhand,2/23/2016 9:13,Second Class,2877,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,2,Late delivery,Home Office,39.95728302,-74.19393158,Raipur,2/19/2016 9:13,71038,1,Uttarakhand,2/23/2016 9:13,Second Class,2877,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,2,Late delivery,Home Office,39.95728302,-74.19393158,Raipur,2/19/2016 9:13,71037,1,Uttarakhand,2/23/2016 9:13,Second Class,2877,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,35.18754196,-101.8676224,Kolhapur,7/2/2016 10:59,69020,1,Maharashtra,9/2/2016 10:59,Standard Class,2882,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,35.18754196,-101.8676224,Kolhapur,7/2/2016 10:59,69019,3,Maharashtra,9/2/2016 10:59,Standard Class,2882,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,35.79488754,-78.70513916,Agra,9/11/2015 2:00,53464,1,Uttar Pradesh,11/15/2015 2:00,Standard Class,2919,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Corporate,35.79488754,-78.70513916,Agra,9/11/2015 2:00,53463,3,Uttar Pradesh,11/15/2015 2:00,Standard Class,2919,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Corporate,35.79488754,-78.70513916,Agra,9/11/2015 2:00,53462,1,Uttar Pradesh,11/15/2015 2:00,Standard Class,2919,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,39.42864227,-82.93689728,Thane,2/2/2016 22:23,68293,1,Maharashtra,4/2/2016 22:23,Standard Class,2983,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,39.42864227,-82.93689728,Thane,2/2/2016 22:23,68292,1,Maharashtra,4/2/2016 22:23,Standard Class,2983,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,39.42864227,-82.93689728,Thane,2/2/2016 22:23,68291,2,Maharashtra,4/2/2016 22:23,Standard Class,2983,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.28241539,-66.37052155,Imphal,12/21/2015 11:24,60739,4,Manipur,12/26/2015 11:24,Standard Class,2991,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.28241539,-66.37052155,Imphal,12/21/2015 11:24,60738,2,Manipur,12/26/2015 11:24,Standard Class,2991,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,37.69120026,-97.42577362,Vadodara,11/26/2015 3:55,56433,1,Guyarat,2/12/2015 3:55,Standard Class,3011,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,37.69120026,-97.42577362,Vadodara,11/26/2015 3:55,56437,1,Guyarat,2/12/2015 3:55,Standard Class,3011,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,37.69120026,-97.42577362,Vadodara,11/26/2015 3:55,56435,1,Guyarat,2/12/2015 3:55,Standard Class,3011,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,37.69120026,-97.42577362,Vadodara,11/26/2015 3:55,56436,3,Guyarat,2/12/2015 3:55,Standard Class,3011,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,37.69120026,-97.42577362,Vadodara,11/26/2015 3:55,56434,4,Guyarat,2/12/2015 3:55,Standard Class,3011,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,18.21444702,-66.37056732,Bhiwandi,12/12/2015 13:00,59225,1,Maharashtra,12/15/2015 13:00,Second Class,3027,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,18.21444702,-66.37056732,Bhiwandi,12/12/2015 13:00,59227,1,Maharashtra,12/15/2015 13:00,Second Class,3027,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+3,2,Late delivery,Corporate,18.21444702,-66.37056732,Bhiwandi,12/12/2015 13:00,59226,1,Maharashtra,12/15/2015 13:00,Second Class,3027,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,2,Late delivery,Corporate,18.21444702,-66.37056732,Bhiwandi,12/12/2015 13:00,59228,4,Maharashtra,12/15/2015 13:00,Second Class,3027,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Home Office,18.20827293,-66.37052155,Meerut,1/14/2016 8:13,64881,1,Uttar Pradesh,1/19/2016 8:13,Standard Class,3052,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Home Office,18.20827293,-66.37052155,Meerut,1/14/2016 8:13,64882,2,Uttar Pradesh,1/19/2016 8:13,Standard Class,3052,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,33.89582443,-118.2425995,Ulhasnagar,2/29/2016 13:46,72778,2,Maharashtra,2/3/2016 13:46,Standard Class,3054,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Consumer,33.89582443,-118.2425995,Ulhasnagar,2/29/2016 13:46,72777,5,Maharashtra,2/3/2016 13:46,Standard Class,3054,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,39.27495956,-76.61506653,Agra,8/12/2015 15:06,58545,1,Uttar Pradesh,12/13/2015 15:06,Second Class,3066,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,39.27495956,-76.61506653,Agra,8/12/2015 15:06,58546,5,Uttar Pradesh,12/13/2015 15:06,Second Class,3066,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,34.00405884,-118.1138687,Jaipur,3/1/2016 22:26,63176,1,Rajastan,5/1/2016 22:26,Standard Class,3074,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Home Office,34.00405884,-118.1138687,Jaipur,3/1/2016 22:26,63177,2,Rajastan,5/1/2016 22:26,Standard Class,3074,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,41.55907822,-72.65383911,Chennai,11/25/2015 9:42,56297,1,Tamil Nadu,11/29/2015 9:42,Standard Class,3090,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,41.55907822,-72.65383911,Chennai,11/25/2015 9:42,56300,1,Tamil Nadu,11/29/2015 9:42,Standard Class,3090,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,41.55907822,-72.65383911,Chennai,11/25/2015 9:42,56299,1,Tamil Nadu,11/29/2015 9:42,Standard Class,3090,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,41.55907822,-72.65383911,Chennai,11/25/2015 9:42,56298,2,Tamil Nadu,11/29/2015 9:42,Standard Class,3090,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,41.55907822,-72.65383911,Chennai,11/25/2015 9:42,56296,3,Tamil Nadu,11/29/2015 9:42,Standard Class,3090,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Consumer,18.23801041,-66.37051392,Guwahati,3/3/2016 14:17,73291,1,Assam,4/3/2016 2:17,Same Day,3102,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+1,0,Late delivery,Consumer,18.23801041,-66.37051392,Guwahati,3/3/2016 14:17,73290,1,Assam,4/3/2016 2:17,Same Day,3102,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+1,0,Late delivery,Consumer,18.23801041,-66.37051392,Guwahati,3/3/2016 14:17,73294,3,Assam,4/3/2016 2:17,Same Day,3102,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+1,0,Late delivery,Consumer,18.23801041,-66.37051392,Guwahati,3/3/2016 14:17,73292,5,Assam,4/3/2016 2:17,Same Day,3102,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+1,0,Late delivery,Consumer,18.23801041,-66.37051392,Guwahati,3/3/2016 14:17,73293,5,Assam,4/3/2016 2:17,Same Day,3102,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Corporate,18.29431343,-66.37049866,Lucknow,2/28/2016 6:35,72551,1,Uttar Pradesh,2/3/2016 6:35,Standard Class,3129,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.29431343,-66.37049866,Lucknow,2/28/2016 6:35,72550,1,Uttar Pradesh,2/3/2016 6:35,Standard Class,3129,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.29431343,-66.37049866,Lucknow,2/28/2016 6:35,72554,1,Uttar Pradesh,2/3/2016 6:35,Standard Class,3129,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.29431343,-66.37049866,Lucknow,2/28/2016 6:35,72553,1,Uttar Pradesh,2/3/2016 6:35,Standard Class,3129,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Corporate,18.29431343,-66.37049866,Lucknow,2/28/2016 6:35,72552,1,Uttar Pradesh,2/3/2016 6:35,Standard Class,3129,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,29.77199745,-95.37243652,Thane,1/28/2016 11:42,67367,1,Maharashtra,1/2/2016 11:42,Standard Class,3135,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Consumer,29.77199745,-95.37243652,Thane,1/28/2016 11:42,67368,2,Maharashtra,1/2/2016 11:42,Standard Class,3135,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,32.6425972,-97.02174377,Belgaum,3/11/2015 18:29,52520,2,Karnataka,5/11/2015 18:29,Standard Class,3153,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,32.6425972,-97.02174377,Belgaum,3/11/2015 18:29,52519,5,Karnataka,5/11/2015 18:29,Standard Class,3153,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,18.21884346,-66.3705368,Tirunelveli,2/17/2016 10:38,70674,2,Tamil Nadu,2/17/2016 22:38,Same Day,3162,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,18.21884346,-66.3705368,Tirunelveli,2/17/2016 10:38,70677,3,Tamil Nadu,2/17/2016 22:38,Same Day,3162,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+0,0,Shipping on time,Consumer,18.21884346,-66.3705368,Tirunelveli,2/17/2016 10:38,70675,4,Tamil Nadu,2/17/2016 22:38,Same Day,3162,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+0,0,Shipping on time,Consumer,18.21884346,-66.3705368,Tirunelveli,2/17/2016 10:38,70676,5,Tamil Nadu,2/17/2016 22:38,Same Day,3162,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Home Office,18.27678108,-66.37060547,Nellore,5/11/2015 21:17,52912,1,Andhra Pradesh,7/11/2015 21:17,Standard Class,3165,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Home Office,18.27678108,-66.37060547,Nellore,5/11/2015 21:17,52910,3,Andhra Pradesh,7/11/2015 21:17,Standard Class,3165,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.27678108,-66.37060547,Nellore,5/11/2015 21:17,52913,5,Andhra Pradesh,7/11/2015 21:17,Standard Class,3165,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Home Office,18.27678108,-66.37060547,Nellore,5/11/2015 21:17,52909,1,Andhra Pradesh,7/11/2015 21:17,Standard Class,3165,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Home Office,18.27678108,-66.37060547,Nellore,5/11/2015 21:17,52911,1,Andhra Pradesh,7/11/2015 21:17,Standard Class,3165,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,32.19872284,-110.9685822,Bhubaneswar,1/11/2015 3:25,52065,1,Odisha,3/11/2015 3:25,Standard Class,3175,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,32.19872284,-110.9685822,Bhubaneswar,1/11/2015 3:25,52066,4,Odisha,3/11/2015 3:25,Standard Class,3175,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,39.65523911,-104.8748703,Aurangabad,2/11/2015 15:51,52318,1,Bihar,8/11/2015 15:51,Standard Class,12072,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,39.65523911,-104.8748703,Aurangabad,2/11/2015 15:51,52317,2,Bihar,8/11/2015 15:51,Standard Class,12072,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,18.28231049,-66.37062836,Rajkot,6/1/2016 17:42,63616,1,Guyarat,10/1/2016 17:42,Standard Class,12082,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,4,Shipping on time,Consumer,18.28231049,-66.37062836,Rajkot,6/1/2016 17:42,63617,3,Guyarat,10/1/2016 17:42,Standard Class,12082,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,28.10211754,-82.51211548,Guntur,1/18/2016 3:40,65530,1,Andhra Pradesh,1/24/2016 3:40,Standard Class,12091,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,28.10211754,-82.51211548,Guntur,1/18/2016 3:40,65527,1,Andhra Pradesh,1/24/2016 3:40,Standard Class,12091,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,28.10211754,-82.51211548,Guntur,1/18/2016 3:40,65531,3,Andhra Pradesh,1/24/2016 3:40,Standard Class,12091,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,28.10211754,-82.51211548,Guntur,1/18/2016 3:40,65528,3,Andhra Pradesh,1/24/2016 3:40,Standard Class,12091,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,28.10211754,-82.51211548,Guntur,1/18/2016 3:40,65529,1,Andhra Pradesh,1/24/2016 3:40,Standard Class,12091,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,33.35738754,-111.9551849,Delhi,2/11/2015 15:09,52311,1,Delhi,6/11/2015 15:09,Standard Class,12148,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,33.35738754,-111.9551849,Delhi,2/11/2015 15:09,52307,3,Delhi,6/11/2015 15:09,Standard Class,12148,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,33.35738754,-111.9551849,Delhi,2/11/2015 15:09,52309,4,Delhi,6/11/2015 15:09,Standard Class,12148,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,33.35738754,-111.9551849,Delhi,2/11/2015 15:09,52308,4,Delhi,6/11/2015 15:09,Standard Class,12148,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,33.35738754,-111.9551849,Delhi,2/11/2015 15:09,52310,2,Delhi,6/11/2015 15:09,Standard Class,12148,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.23617172,-66.3706131,Tiruppur,11/17/2015 20:34,54989,3,Tamil Nadu,11/19/2015 20:34,First Class,12154,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.23617172,-66.3706131,Tiruppur,11/17/2015 20:34,54988,1,Tamil Nadu,11/19/2015 20:34,First Class,12154,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.29062271,-66.37055969,Chennai,11/29/2015 18:48,57059,1,Tamil Nadu,3/12/2015 18:48,Second Class,12158,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+4,2,Late delivery,Consumer,18.29062271,-66.37055969,Chennai,11/29/2015 18:48,57060,1,Tamil Nadu,3/12/2015 18:48,Second Class,12158,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,30.24816895,-97.89083099,Mumbai,12/29/2015 4:02,62152,1,Maharashtra,12/31/2015 4:02,Standard Class,12207,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,30.24816895,-97.89083099,Mumbai,12/29/2015 4:02,62151,1,Maharashtra,12/31/2015 4:02,Standard Class,12207,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,30.24816895,-97.89083099,Mumbai,12/29/2015 4:02,62154,4,Maharashtra,12/31/2015 4:02,Standard Class,12207,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,30.24816895,-97.89083099,Mumbai,12/29/2015 4:02,62155,5,Maharashtra,12/31/2015 4:02,Standard Class,12207,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,30.24816895,-97.89083099,Mumbai,12/29/2015 4:02,62153,5,Maharashtra,12/31/2015 4:02,Standard Class,12207,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.28635979,-66.37052918,Aurangabad,12/20/2015 2:29,60515,1,Maharashtra,12/26/2015 2:29,Standard Class,12211,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+6,4,Late delivery,Consumer,18.28635979,-66.37052918,Aurangabad,12/20/2015 2:29,60514,1,Maharashtra,12/26/2015 2:29,Standard Class,12211,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.28635979,-66.37052918,Aurangabad,12/20/2015 2:29,60513,2,Maharashtra,12/26/2015 2:29,Standard Class,12211,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,41.89448166,-87.77452087,Kozhikode,3/14/2016 1:29,75036,4,Kerala,3/20/2016 1:29,Standard Class,12233,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,41.89448166,-87.77452087,Kozhikode,3/14/2016 1:29,75037,1,Kerala,3/20/2016 1:29,Standard Class,12233,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Consumer,41.89448166,-87.77452087,Bilaspur,12/27/2015 22:58,61942,1,Uttar Pradesh,12/31/2015 22:58,Standard Class,12233,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,41.89448166,-87.77452087,Kozhikode,3/14/2016 1:29,75035,1,Kerala,3/20/2016 1:29,Standard Class,12233,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,41.89448166,-87.77452087,Kozhikode,3/14/2016 1:29,75038,1,Kerala,3/20/2016 1:29,Standard Class,12233,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,41.89448166,-87.77452087,Kozhikode,3/14/2016 1:29,75039,2,Kerala,3/20/2016 1:29,Standard Class,12233,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.23427773,-66.37054443,Surat,2/12/2015 16:52,57565,1,Guyarat,6/12/2015 16:52,Standard Class,12234,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.23427773,-66.37054443,Surat,2/12/2015 16:52,57563,1,Guyarat,6/12/2015 16:52,Standard Class,12234,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Corporate,18.23427773,-66.37054443,Surat,2/12/2015 16:52,57564,4,Guyarat,6/12/2015 16:52,Standard Class,12234,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+4,4,Shipping on time,Corporate,18.23427773,-66.37054443,Surat,2/12/2015 16:52,57562,2,Guyarat,6/12/2015 16:52,Standard Class,12234,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+0,0,Shipping on time,Consumer,18.26982689,-66.37055206,Mumbai,2/21/2016 7:49,71371,1,Maharashtra,2/21/2016 19:49,Same Day,12258,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+0,0,Shipping on time,Consumer,18.26982689,-66.37055206,Mumbai,2/21/2016 7:49,71372,2,Maharashtra,2/21/2016 19:49,Same Day,12258,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Consumer,45.44006348,-84.77752686,Pune,1/30/2016 14:51,67724,1,Maharashtra,4/2/2016 14:51,Second Class,12283,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Consumer,45.44006348,-84.77752686,Pune,1/30/2016 14:51,67725,1,Maharashtra,4/2/2016 14:51,Second Class,12283,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Consumer,45.44006348,-84.77752686,Pune,1/30/2016 14:51,67728,1,Maharashtra,4/2/2016 14:51,Second Class,12283,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Consumer,45.44006348,-84.77752686,Pune,1/30/2016 14:51,67726,2,Maharashtra,4/2/2016 14:51,Second Class,12283,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+5,2,Late delivery,Consumer,45.44006348,-84.77752686,Pune,1/30/2016 14:51,67727,3,Maharashtra,4/2/2016 14:51,Second Class,12283,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,2,Shipping canceled,Consumer,37.78337097,-77.20753479,Ranchi,7/1/2016 19:58,63811,1,Jharkhand,11/1/2016 19:58,Second Class,12290,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+4,2,Shipping canceled,Consumer,37.78337097,-77.20753479,Ranchi,7/1/2016 19:58,63810,5,Jharkhand,11/1/2016 19:58,Second Class,12290,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.27024651,-66.37050629,Bhubaneswar,1/1/2016 16:07,62769,1,Odisha,3/1/2016 16:07,Standard Class,12295,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,18.27024651,-66.37050629,Bhubaneswar,1/1/2016 16:07,62768,1,Odisha,3/1/2016 16:07,Standard Class,12295,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.26904106,-66.37055969,Gorakhpur,2/11/2015 14:06,52301,5,Haryana,8/11/2015 14:06,Standard Class,12301,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,18.26904106,-66.37055969,Gorakhpur,2/11/2015 14:06,52300,1,Haryana,8/11/2015 14:06,Standard Class,12301,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24955368,-66.37062836,Asansol,2/16/2016 4:30,70448,1,Bengala Occidental,2/21/2016 4:30,Standard Class,12305,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24955368,-66.37062836,Asansol,2/16/2016 4:30,70446,1,Bengala Occidental,2/21/2016 4:30,Standard Class,12305,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24955368,-66.37062836,Asansol,2/16/2016 4:30,70449,1,Bengala Occidental,2/21/2016 4:30,Standard Class,12305,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24955368,-66.37062836,Asansol,2/16/2016 4:30,70445,3,Bengala Occidental,2/21/2016 4:30,Standard Class,12305,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Consumer,18.24955368,-66.37062836,Bihar Sharif,7/11/2015 15:19,53225,5,Bihar,9/11/2015 15:19,Standard Class,12305,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,18.24955368,-66.37062836,Asansol,2/16/2016 4:30,70447,1,Bengala Occidental,2/21/2016 4:30,Standard Class,12305,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.29119682,-66.37059784,Rajkot,1/19/2016 18:54,65818,1,Guyarat,1/22/2016 18:54,Standard Class,12314,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+3,4,Advance shipping,Consumer,18.29119682,-66.37059784,Rajkot,1/19/2016 18:54,65821,3,Guyarat,1/22/2016 18:54,Standard Class,12314,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+3,4,Advance shipping,Consumer,18.29119682,-66.37059784,Rajkot,1/19/2016 18:54,65820,5,Guyarat,1/22/2016 18:54,Standard Class,12314,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+3,4,Advance shipping,Consumer,18.29119682,-66.37059784,Rajkot,1/19/2016 18:54,65819,1,Guyarat,1/22/2016 18:54,Standard Class,12314,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Home Office,18.29429245,-66.37052918,Jhansi,3/3/2016 23:03,73358,1,Uttar Pradesh,7/3/2016 23:03,Standard Class,12324,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM,03:00 PM - 05:00 PM
+4,4,Shipping on time,Home Office,18.29429245,-66.37052918,Jhansi,3/3/2016 23:03,73357,1,Uttar Pradesh,7/3/2016 23:03,Standard Class,12324,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,37.62343597,-121.1197205,Kalyan,1/17/2016 20:18,65481,4,Maharashtra,1/22/2016 20:18,Standard Class,12330,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,4,Late delivery,Consumer,37.62343597,-121.1197205,Kalyan,1/17/2016 20:18,65482,1,Maharashtra,1/22/2016 20:18,Standard Class,12330,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+5,4,Late delivery,Consumer,37.62343597,-121.1197205,Kalyan,1/17/2016 20:18,65480,1,Maharashtra,1/22/2016 20:18,Standard Class,12330,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,35.81311417,-84.17388916,Bangalore,12/22/2015 18:14,60960,1,Karnataka,12/24/2015 18:14,First Class,12335,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,35.81311417,-84.17388916,Bangalore,12/22/2015 18:14,60959,5,Karnataka,12/24/2015 18:14,First Class,12335,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,35.81311417,-84.17388916,Guntur,5/1/2016 7:22,63388,1,Andhra Pradesh,11/1/2016 7:22,Standard Class,12335,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+6,4,Late delivery,Consumer,35.81311417,-84.17388916,Guntur,5/1/2016 7:22,63389,3,Andhra Pradesh,11/1/2016 7:22,Standard Class,12335,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+6,4,Late delivery,Consumer,35.81311417,-84.17388916,Guntur,5/1/2016 7:22,63387,2,Andhra Pradesh,11/1/2016 7:22,Standard Class,12335,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+5,2,Late delivery,Home Office,37.34420395,-121.9884415,Raipur,10/25/2015 6:03,50840,1,Rajastan,10/30/2015 6:03,Second Class,12346,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+5,2,Late delivery,Home Office,37.34420395,-121.9884415,Raipur,10/25/2015 6:03,50841,2,Rajastan,10/30/2015 6:03,Second Class,12346,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,37.1289444,-86.29595184,Bareilly,11/18/2015 16:11,55121,1,Uttar Pradesh,11/20/2015 16:11,First Class,12351,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.1289444,-86.29595184,Bareilly,11/18/2015 16:11,55120,2,Uttar Pradesh,11/20/2015 16:11,First Class,12351,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.1289444,-86.29595184,Bareilly,11/18/2015 16:11,55122,4,Uttar Pradesh,11/20/2015 16:11,First Class,12351,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.26842308,-66.37059021,Bhilai,3/11/2015 6:34,52437,1,Chhattisgarh,5/11/2015 6:34,First Class,12361,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Consumer,18.26842308,-66.37059021,Bhilai,3/11/2015 6:34,52440,1,Chhattisgarh,5/11/2015 6:34,First Class,12361,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.26842308,-66.37059021,Bhilai,3/11/2015 6:34,52438,1,Chhattisgarh,5/11/2015 6:34,First Class,12361,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,18.26842308,-66.37059021,Bhilai,3/11/2015 6:34,52439,2,Chhattisgarh,5/11/2015 6:34,First Class,12361,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,32.25922394,-110.9718781,Jodhpur,2/24/2016 19:33,71988,2,Rajastan,2/26/2016 19:33,First Class,12362,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Consumer,32.25922394,-110.9718781,Jodhpur,2/24/2016 19:33,71989,3,Rajastan,2/26/2016 19:33,First Class,12362,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM
+2,1,Late delivery,Home Office,18.28599739,-66.37062836,Jodhpur,9/12/2015 3:22,58639,2,Rajastan,11/12/2015 3:22,First Class,12365,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,18.28599739,-66.37062836,Jodhpur,9/12/2015 3:22,58638,1,Rajastan,11/12/2015 3:22,First Class,12365,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,18.28599739,-66.37062836,Jodhpur,9/12/2015 3:22,58637,1,Rajastan,11/12/2015 3:22,First Class,12365,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Home Office,18.28599739,-66.37062836,Jodhpur,9/12/2015 3:22,58636,1,Rajastan,11/12/2015 3:22,First Class,12365,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,4,Advance shipping,Corporate,37.66836166,-77.65823364,Amravati,1/11/2015 8:41,52104,1,Maharashtra,3/11/2015 8:41,Standard Class,12380,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,4,Advance shipping,Corporate,37.66836166,-77.65823364,Amravati,1/11/2015 8:41,52102,1,Maharashtra,3/11/2015 8:41,Standard Class,12380,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,37.66836166,-77.65823364,Amravati,1/11/2015 8:41,52105,1,Maharashtra,3/11/2015 8:41,Standard Class,12380,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.66836166,-77.65823364,Delhi,3/2/2016 2:35,68317,1,Delhi,5/2/2016 2:35,First Class,12380,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.66836166,-77.65823364,Delhi,3/2/2016 2:35,68320,3,Delhi,5/2/2016 2:35,First Class,12380,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,37.66836166,-77.65823364,Delhi,3/2/2016 2:35,68316,4,Delhi,5/2/2016 2:35,First Class,12380,12:00 PM - 03:00 PM,10:00 AM - 12:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,37.66836166,-77.65823364,Delhi,3/2/2016 2:35,68318,5,Delhi,5/2/2016 2:35,First Class,12380,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,37.66836166,-77.65823364,Delhi,3/2/2016 2:35,68319,2,Delhi,5/2/2016 2:35,First Class,12380,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,4,Advance shipping,Corporate,37.66836166,-77.65823364,Amravati,1/11/2015 8:41,52103,2,Maharashtra,3/11/2015 8:41,Standard Class,12380,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,18.22637749,-66.37062836,Durgapur,1/15/2016 18:12,65108,1,Maharashtra,1/17/2016 18:12,Second Class,12394,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,18.22637749,-66.37062836,Durgapur,1/15/2016 18:12,65107,1,Maharashtra,1/17/2016 18:12,Second Class,12394,03:00 PM - 05:00 PM,10:00 AM - 12:00 PM,03:00 PM - 05:00 PM
+2,2,Shipping on time,Home Office,18.22637749,-66.37062836,Durgapur,1/15/2016 18:12,65109,1,Maharashtra,1/17/2016 18:12,Second Class,12394,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,2,Shipping on time,Home Office,18.22637749,-66.37062836,Durgapur,1/15/2016 18:12,65106,2,Maharashtra,1/17/2016 18:12,Second Class,12394,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.29413223,-66.37060547,Dehra Dun,2/19/2016 22:53,71144,1,Uttarakhand,2/21/2016 22:53,First Class,12396,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.29413223,-66.37060547,Dehra Dun,2/19/2016 22:53,71147,3,Uttarakhand,2/21/2016 22:53,First Class,12396,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM,10:00 AM - 12:00 PM
+2,1,Late delivery,Corporate,18.29413223,-66.37060547,Dehra Dun,2/19/2016 22:53,71146,1,Uttarakhand,2/21/2016 22:53,First Class,12396,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.29413223,-66.37060547,Dehra Dun,2/19/2016 22:53,71145,1,Uttarakhand,2/21/2016 22:53,First Class,12396,12:00 PM - 03:00 PM,03:00 PM - 05:00 PM,12:00 PM - 03:00 PM
+2,1,Late delivery,Corporate,18.29413223,-66.37060547,Dehra Dun,2/19/2016 22:53,71143,3,Uttarakhand,2/21/2016 22:53,First Class,12396,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM,12:00 PM - 03:00 PM

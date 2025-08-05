@@ -1,0 +1,22 @@
+# Include .env files
+!.env
+!.env.*
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build directories
+.next/
+out/
+build/
+dist/
+
+# Ignore system files
+.DS_Store
+*.pem
+
+# Ignore debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
